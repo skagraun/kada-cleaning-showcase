@@ -1,0 +1,768 @@
+{
+  "common": {
+    "getQuote": "Get a Quote",
+    "contact": "Contact",
+    "learnMore": "Learn More",
+    "send": "Send",
+    "loading": "Loading...",
+    "close": "Close",
+    "open": "Open",
+    "themeToggle": "Toggle Theme"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "pricing": "Pricing",
+    "about": "About",
+    "testimonials": "Testimonials",
+    "area": "Service Area",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "Professional Cleaning",
+    "title1": "Clean Spaces,",
+    "title2": "Satisfied Clients",
+    "description": "Professional cleaning for office buildings, apartment complexes, and post-construction at the highest quality.",
+    "feature1": "Professional Team",
+    "feature2": "Eco-friendly Products",
+    "feature3": "Flexible Schedule",
+    "cta": "Get a Quote",
+    "imgAlt1": "KaDa Cleaning - Professional Cleaning",
+    "imgAlt2": "KaDa Cleaning - Office Cleaning",
+    "imgAlt3": "KaDa Cleaning - Residential Cleaning"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Professional cleaning solutions for every need",
+    "office": {
+      "title": "Office Building Cleaning",
+      "description": "We tackle our daily tasks with greater momentum at work when greeted by a pristine, organized space. Our professional office cleaning service ensures your employees always work in an inspiring, healthy environment.",
+      "features": [
+        "Daily, weekly, or monthly cleaning",
+        "Office furniture and surface dusting",
+        "Floor machine cleaning and polishing",
+        "Carpet cleaning and maintenance",
+        "Restroom and common area disinfection",
+        "Waste collection and selective recycling"
+      ],
+      "infoTitle": "How often should an office building be cleaned?",
+      "infoText": "The cleaning frequency of an office building can vary depending on factors such as building size, number of employees, and nature of work performed. Generally, common areas and high-traffic zones should be cleaned daily, while individual offices and less frequently used spaces can be cleaned weekly or bi-weekly."
+    },
+    "residential": {
+      "title": "Apartment Building Cleaning",
+      "description": "The apartment building is a shared area where we share space with our neighbors. With our regular cleaning, we ensure that the stairwell, elevator, and common areas always remain clean and presentable - also increasing the property value.",
+      "features": [
+        "Stairwell and hallway cleaning",
+        "Elevator and common area cleaning",
+        "Entrance door and glass surface cleaning",
+        "Handrail and railing disinfection",
+        "Mailbox and doorbell cleaning",
+        "Winter de-icing and snow removal"
+      ],
+      "infoTitle": "Apartment building cleaning comes in handy when:",
+      "infoText": "The stairwell shows traces of pets, marks remain after neighbors' renovation work, or you simply want your home's common areas to always be presentable and clean."
+    },
+    "construction": {
+      "title": "Post-Construction Cleaning",
+      "description": "If you want perfect results, entrust the professional removal of drips, adhesive residue, dust, and other contaminants after construction, renovation, or painting to our company. With our industrial machines and special cleaning agents, we guarantee immaculate results.",
+      "features": [
+        "Construction dust and debris removal",
+        "Paint and adhesive residue cleaning",
+        "Thorough window and glass cleaning",
+        "Floor and tile machine cleaning",
+        "Sanitaryware and faucet polishing",
+        "Final quality inspection before handover"
+      ],
+      "infoTitle": "Post-construction deep cleaning:",
+      "infoText": "Construction can leave behind mess that requires thorough cleaning. We ensure that newly built or renovated properties are immaculate and ready for move-in."
+    },
+    "deep": {
+      "title": "Deep Home Cleaning",
+      "description": "From time to time, we all need a thorough deep cleaning, which we perform at a professional level. Whether it's pre/post-move cleaning or simply a deep clean - we're here to help!",
+      "features": [
+        "Kitchen appliance deep cleaning (oven, fridge, microwave)",
+        "Bathroom limescale and mold removal",
+        "Window and blind cleaning",
+        "Cleaning behind and under furniture",
+        "Thorough tile and grout cleaning",
+        "Textile and upholstery refreshing"
+      ],
+      "infoTitle": "When should you order a deep cleaning?",
+      "infoText": "Before/after moving, at seasonal changes, before major events, or if you simply want your home to shine again. We recommend at least 2-4 times per year."
+    }
+  },
+  "pricing": {
+    "title": "Our Prices",
+    "subtitle": "Transparent pricing, no hidden costs",
+    "popular": "Popular",
+    "plans": {
+      "basic": {
+        "name": "Basic Apartment",
+        "description": "For regular cleaning of smaller apartment buildings",
+        "price": "25,000",
+        "unit": "HUF/visit",
+        "features": [
+          "Stairwell cleaning (max. 4 floors)",
+          "Entrance and lobby cleaning",
+          "Handrail disinfection",
+          "Mailbox wiping",
+          "Once per week"
+        ],
+        "cta": "Request Quote"
+      },
+      "premium": {
+        "name": "Premium Apartment",
+        "description": "For comprehensive cleaning of larger apartment buildings",
+        "price": "45,000",
+        "unit": "HUF/visit",
+        "features": [
+          "Stairwell cleaning (unlimited floors)",
+          "Elevator and common areas",
+          "Window cleaning (quarterly)",
+          "Courtyard sweeping",
+          "Twice per week",
+          "Flexible scheduling"
+        ],
+        "cta": "Most Popular"
+      },
+      "office": {
+        "name": "Office Building",
+        "description": "For offices and commercial spaces",
+        "price": "Custom",
+        "unit": "quote",
+        "features": [
+          "Daily/weekly cleaning",
+          "Office surface cleaning",
+          "Restroom disinfection",
+          "Kitchen/dining area cleaning",
+          "Carpet cleaning (monthly)",
+          "After-hours cleaning"
+        ],
+        "cta": "Request Quote"
+      }
+    },
+    "additional": {
+      "title": "Additional Services",
+      "window": { "name": "Window Cleaning", "price": "500 HUF/m²" },
+      "carpet": { "name": "Carpet Cleaning", "price": "800 HUF/m²" },
+      "deep": { "name": "Deep Cleaning", "price": "3,000 HUF/m²" },
+      "construction": { "name": "Post-Construction", "price": "4,000 HUF/m²" }
+    },
+    "disclaimer": "* Prices are indicative. For an accurate quote, please contact us. We provide free on-site assessment.",
+    "cta": "Request Quote"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Meet the KaDa Cleaning Team",
+    "stats": {
+      "founded": "Year Founded",
+      "experience": "Years Experience",
+      "area": "and Surroundings",
+      "guarantee": "Satisfaction Guarantee"
+    },
+    "mission": {
+      "title": "Our Mission is Cleanliness",
+      "p1": "KaDa Cleaning was founded in January 2025 with the goal of providing professional cleaning services to individuals and businesses alike in Szeged and its surroundings.",
+      "p2": "Every member of our experienced team has undergone thorough training and is committed to performing every job at the highest standard.",
+      "p3": "We are proud to exclusively use eco-friendly, hypoallergenic cleaning products that are safe for your family and pets.",
+      "p4": "We believe that a clean environment is not a luxury, but a basic necessity - and we help you achieve it."
+    },
+    "features": {
+      "team": {
+        "title": "Experienced Team",
+        "description": "All our staff have undergone thorough training and possess the necessary professional experience. We continuously develop our knowledge in new cleaning technologies."
+      },
+      "eco": {
+        "title": "Eco-Friendly Solutions",
+        "description": "We exclusively use eco-friendly, hypoallergenic cleaning products that are safe for children and pets while effectively removing contaminants."
+      },
+      "quality": {
+        "title": "Quality Guarantee",
+        "description": "If you're not satisfied with our work, we'll return and re-clean free of charge. Customer satisfaction comes first - we guarantee this with every order."
+      },
+      "flexible": {
+        "title": "Flexible Scheduling",
+        "description": "We adapt to your schedule - whether it's morning, evening, or weekend cleaning. With our online booking system, you can easily select the time that suits you."
+      },
+      "insured": {
+        "title": "Insured Service",
+        "description": "We have comprehensive liability insurance, so you can rest easy. Our staff are reliable and discreet - your home is safe with us."
+      },
+      "support": {
+        "title": "Customer Support",
+        "description": "Have questions? Our customer service is available weekdays 8:00-18:00. We're at your service with quick response times and personalized solutions."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Testimonials",
+    "subtitle": "What our clients say about us",
+    "cta": "Join our satisfied customers!",
+    "ctaButton": "Get a Quote",
+    "reviews": {
+      "1": {
+        "name": "Peter Kovács",
+        "role": "Building Manager",
+        "content": "Since we've been working with KaDa Cleaning, the residents are satisfied, and the stairwell is always clean and tidy. Reliable and flexible - I can only recommend them!"
+      },
+      "2": {
+        "name": "Eszter Nagy",
+        "role": "Office Manager",
+        "content": "We entrusted our office cleaning to them and weren't disappointed. They do precise work and always arrive on time. The employees also noticed the difference!"
+      },
+      "3": {
+        "name": "János Szabó",
+        "role": "Apartment Owner",
+        "content": "We called them for deep cleaning after renovation. They did incredible work - they removed construction dust from places we wouldn't have thought of."
+      },
+      "4": {
+        "name": "Mária Tóth",
+        "role": "House Owner",
+        "content": "We order deep cleaning twice a year. They use eco-friendly products, which is important to us because of the children and dog. Excellent quality!"
+      },
+      "5": {
+        "name": "Gábor Horváth",
+        "role": "Construction Contractor",
+        "content": "I call KaDa Cleaning before every handover. They're fast, thorough, and my clients are always satisfied with the result. Professional team!"
+      },
+      "6": {
+        "name": "Katalin Varga",
+        "role": "Airbnb Host",
+        "content": "I rent out multiple apartments, and I can always count on KaDa Cleaning for turnover cleaning between guests. Flexible and reliable."
+      }
+    }
+  },
+  "serviceArea": {
+    "title": "Service Area",
+    "subtitle": "Where are we available?",
+    "regions": {
+      "szeged": "Szeged",
+      "surrounding": "Surrounding Areas"
+    },
+    "highlights": [
+      "Free on-site assessment",
+      "Flexible scheduling",
+      "Quick response",
+      "Regular and one-time jobs"
+    ],
+    "cta": {
+      "title": "Interested in our services?",
+      "description": "Contact us and request a free quote! We serve Szeged and a 30 km radius.",
+      "button": "Contact Us"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Answers to the most common questions",
+    "notFound": "Didn't find the answer to your question?",
+    "contactUs": "Write to us!",
+    "questions": {
+      "1": {
+        "question": "How often is apartment building cleaning recommended?",
+        "answer": "The cleaning frequency is determined by the building size, number of residents, and traffic. We generally recommend 1-2 times per week, but larger buildings may require daily cleaning. During the initial consultation, we assess your needs and prepare a personalized quote."
+      },
+      "2": {
+        "question": "What cleaning products do you use?",
+        "answer": "We exclusively use professional, eco-friendly, and hypoallergenic cleaning products that are safe for children and pets. All our products have the necessary quality certifications."
+      },
+      "3": {
+        "question": "How much does the cleaning service cost?",
+        "answer": "The price depends on several factors: the size of the area to be cleaned, the type and frequency of cleaning, and any special requirements. We offer free on-site assessment and personalized quotes."
+      },
+      "4": {
+        "question": "Do you guarantee your work?",
+        "answer": "Yes! We offer a 100% satisfaction guarantee on all our work. If you're not satisfied with the result, we'll return and re-clean free of charge. We also have comprehensive liability insurance."
+      },
+      "5": {
+        "question": "How does booking and payment work?",
+        "answer": "Booking can be done by phone, email, or through our website. We perform a free on-site assessment for first-time clients. Payment can be made in cash or by bank transfer after the work is completed. We also offer monthly billing for regular orders."
+      },
+      "6": {
+        "question": "Do you work on weekends or holidays?",
+        "answer": "Yes, we adapt to our clients' needs. We also undertake weekend and holiday cleaning by prior arrangement. For office buildings, we often perform cleaning outside working hours to avoid disrupting work."
+      },
+      "7": {
+        "question": "What happens if I'm not home during cleaning?",
+        "answer": "Our regular clients often entrust us with keys. All our staff have undergone background checks and reliability assessments. We store keys securely and handle them according to strict protocols."
+      },
+      "8": {
+        "question": "Do you undertake special cleaning tasks?",
+        "answer": "Yes! In addition to standard cleaning, we offer window cleaning, carpet cleaning, upholstery cleaning, deep limescale removal, and other special tasks. Request our custom quote!"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Request a free quote today!",
+    "sidebar": {
+      "title": "Get in Touch!",
+      "description": "Fill out the form and we'll contact you soon. Quality comes first for us, and our goal is a 100% satisfied customer!",
+      "email": "Email",
+      "phone": "Phone",
+      "area": "Service Area",
+      "comingSoon": "Coming Soon"
+    },
+    "trust": {
+      "title": "Quick Response",
+      "description": "We respond within 24 hours"
+    },
+    "form": {
+      "title": "Request Quote",
+      "lastName": "Last Name",
+      "lastNamePlaceholder": "Smith",
+      "firstName": "First Name",
+      "firstNamePlaceholder": "John",
+      "email": "Email Address",
+      "emailPlaceholder": "example@email.com",
+      "phone": "Phone Number",
+      "phonePlaceholder": "+36 30 123 4567",
+      "message": "Message",
+      "messagePlaceholder": "Tell us how we can help...",
+      "submit": "Send Message",
+      "success": "Successfully Sent!",
+      "successDescription": "Your quote request has been forwarded successfully!",
+      "error": "An error occurred!"
+    }
+  },
+  "cookie": {
+    "title": "We use cookies",
+    "description": "Our website uses cookies to improve user experience and analyze site traffic. By clicking \"Accept\", you consent to the use of cookies.",
+    "privacyLink": "Privacy Policy",
+    "accept": "Accept",
+    "decline": "Decline"
+  },
+  "footer": {
+    "description": "Professional cleaning services for office buildings and apartment complexes.",
+    "copyright": "All rights reserved",
+    "madeBy": "Made by:"
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "The page you're looking for doesn't exist or has been moved.",
+    "backHome": "Back to Home"
+  },
+  "floatingButtons": {
+    "backToTop": "Back to top",
+    "call": "Call",
+    "contact": "Contact us",
+    "whatsappMessage": "Hi! I'm interested in your cleaning services."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "backToHome": "Back to Home",
+    "lastUpdated": "Last updated",
+    "intro": "KaDa Cleaning is committed to protecting your personal data. This privacy policy describes how we collect, use, and protect your data when using our services.",
+    "sections": {
+      "dataController": {
+        "title": "Data Controller",
+        "content": "The data controller is KaDa Cleaning (registered office: Szeged, Hungary). For questions about data processing, contact us at info@kadacleaning.hu."
+      },
+      "dataCollection": {
+        "title": "Data We Collect",
+        "content": "Through the contact form, we collect the following data: last name, first name, email address, phone number, and your message. Additionally, we collect anonymous statistical data through cookies during website use."
+      },
+      "purpose": {
+        "title": "Purpose of Data Processing",
+        "content": "We use your data exclusively for contacting you, responding to quote requests, and fulfilling our services. We do not share your data with third parties for marketing purposes."
+      },
+      "legalBasis": {
+        "title": "Legal Basis",
+        "content": "The legal basis for data processing is your consent (GDPR Article 6(1)(a)), which you provide by completing the contact form. You may withdraw your consent at any time."
+      },
+      "retention": {
+        "title": "Data Retention Period",
+        "content": "We retain contact data until the quote request is answered, or in case of contract, for 5 years after the contract ends, in accordance with legal obligations."
+      },
+      "rights": {
+        "title": "Your Rights",
+        "content": "Under the GDPR, you have the following rights:",
+        "list": {
+          "access": "Right of access: request information about your stored data",
+          "rectification": "Right to rectification: request correction of inaccurate data",
+          "erasure": "Right to erasure: request deletion of your data",
+          "restriction": "Right to restriction: request limitation of data processing",
+          "portability": "Data portability: request transfer of your data",
+          "objection": "Right to object: object to data processing"
+        }
+      },
+      "cookies": {
+        "title": "Cookies",
+        "content": "Our website uses cookies to improve user experience and collect anonymous statistics (Google Analytics). We ask for your consent to use cookies on your first visit. You can modify cookie settings in your browser at any time."
+      },
+      "contact": {
+        "title": "Contact",
+        "content": "For privacy questions, contact us at: info@kadacleaning.hu. For complaints, you may contact the Hungarian National Authority for Data Protection and Freedom of Information (NAIH): www.naih.hu"
+      }
+    },
+    "footerNote": "This policy is effective from January 1, 2025. We reserve the right to modify this policy and will inform you of changes on our website."
+  },
+  "servicePages": {
+    "backToHome": "Back to Home",
+    "getQuote": "Get a Quote",
+    "whyChooseUs": "Why Choose Us?",
+    "process": "How We Work",
+    "otherServices": "Our Other Services",
+    "office": {
+      "slug": "irodahaz-takaritas",
+      "metaTitle": "Office Building Cleaning in Szeged | KaDa Cleaning",
+      "metaDescription": "Professional office building cleaning in Szeged and surrounding areas. Daily, weekly cleaning, sanitization, machine floor cleaning. Request a free quote!",
+      "hero": {
+        "title": "Office Building Cleaning",
+        "subtitle": "Professional office cleaning for a productive work environment"
+      },
+      "intro": {
+        "title": "Clean Office, Satisfied Employees",
+        "p1": "A clean, organized work environment is not just an aesthetic matter - it directly affects employee productivity, health, and company image. A hygienic office space reduces the spread of illness and increases workplace satisfaction.",
+        "p2": "With KaDa Cleaning's professional office cleaning services, we ensure your staff can start each day in a sparkling clean, inspiring environment. Our experienced team works with the latest equipment and eco-friendly cleaning products."
+      },
+      "services": {
+        "title": "Our Office Cleaning Services",
+        "items": [
+          {
+            "title": "Daily Regular Cleaning",
+            "description": "Office surface dusting, floor cleaning, emptying bins, general tidying"
+          },
+          {
+            "title": "Restroom & Kitchen Sanitization",
+            "description": "Thorough sanitizer cleaning, faucet polishing, kitchen equipment and surface disinfection"
+          },
+          {
+            "title": "Machine Floor Cleaning",
+            "description": "Deep cleaning and polishing with industrial machines for all floor types"
+          },
+          {
+            "title": "Carpet Cleaning",
+            "description": "Professional machine cleaning of office carpets and carpet floors, stain removal"
+          },
+          {
+            "title": "Window Cleaning",
+            "description": "Interior and exterior window surface cleaning, frame cleaning, sill dusting"
+          },
+          {
+            "title": "Specialized Cleaning",
+            "description": "Upholstery cleaning, air conditioner cleaning, high-level work"
+          }
+        ]
+      },
+      "benefits": [
+        "After-hours cleaning - no disruption to work",
+        "Flexible scheduling to meet your needs",
+        "Eco-friendly, hypoallergenic cleaning products",
+        "Comprehensive liability insurance",
+        "Reliable, vetted staff",
+        "100% satisfaction guarantee"
+      ],
+      "process": {
+        "steps": [
+          {
+            "title": "Free Assessment",
+            "description": "We visit the office to assess needs and area size"
+          },
+          {
+            "title": "Customized Quote",
+            "description": "We prepare a detailed quote based on your needs"
+          },
+          {
+            "title": "Contract Signing",
+            "description": "Flexible contract terms, no long-term commitment required"
+          },
+          {
+            "title": "Regular Cleaning",
+            "description": "Reliable, quality work according to the agreed schedule"
+          }
+        ]
+      },
+      "faq": [
+        {
+          "question": "How often is office cleaning recommended?",
+          "answer": "This depends on office size and number of employees. We generally recommend daily or 2-3 times per week for common areas and restrooms, while individual offices can be cleaned weekly."
+        },
+        {
+          "question": "Do you work outside business hours?",
+          "answer": "Yes, we specifically recommend after-hours cleaning to avoid disrupting office work. We can accommodate early morning, evening, and weekend appointments."
+        },
+        {
+          "question": "Do you bring your own equipment and cleaning products?",
+          "answer": "Yes, we provide all necessary equipment and professional cleaning products. We exclusively use eco-friendly, hypoallergenic products."
+        }
+      ]
+    },
+    "residential": {
+      "slug": "tarsashaz-takaritas",
+      "metaTitle": "Apartment Building Cleaning in Szeged | KaDa Cleaning",
+      "metaDescription": "Professional apartment building and stairwell cleaning in Szeged. Regular cleaning, sanitization, winter de-icing. Request a free quote!",
+      "hero": {
+        "title": "Apartment Building Cleaning",
+        "subtitle": "Clean stairwells, satisfied residents, valuable property"
+      },
+      "intro": {
+        "title": "Presentable Common Areas",
+        "p1": "An apartment building's common areas create the first impression for visitors and potential buyers. Regularly cleaned, well-maintained stairwells and common areas not only provide a more pleasant living environment but also increase property value.",
+        "p2": "KaDa Cleaning offers comprehensive apartment building cleaning services, including regular maintenance of stairwells, elevators, common areas, and courtyards. Our flexible service packages can meet the needs of any size building."
+      },
+      "services": {
+        "title": "Our Apartment Building Cleaning Services",
+        "items": [
+          {
+            "title": "Stairwell Cleaning",
+            "description": "Cleaning of stairs, railings, walls, dusting, mopping on all floors"
+          },
+          {
+            "title": "Elevator Cleaning",
+            "description": "Interior elevator cabin cleaning, mirror polishing, floor cleaning, button sanitization"
+          },
+          {
+            "title": "Entrance & Lobby",
+            "description": "Entrance door cleaning, glass surface cleaning, lobby mopping, mailbox wiping"
+          },
+          {
+            "title": "Common Areas",
+            "description": "Laundry room, drying room, storage areas, bicycle storage cleaning"
+          },
+          {
+            "title": "Courtyard & Parking",
+            "description": "Courtyard path sweeping, parking lot cleaning, cleaning around green areas"
+          },
+          {
+            "title": "Winter Services",
+            "description": "De-icing, snow shoveling, ice removal for safe passage"
+          }
+        ]
+      },
+      "benefits": [
+        "Regular, reliable cleaning - always clean stairwells",
+        "Increases property value and appeal",
+        "Reduces conflicts between residents",
+        "Flexible scheduling and service packages",
+        "Use of eco-friendly cleaning products",
+        "Comprehensive liability insurance"
+      ],
+      "process": {
+        "steps": [
+          {
+            "title": "Contact Us",
+            "description": "Reach us by phone, email, or contact form"
+          },
+          {
+            "title": "On-Site Assessment",
+            "description": "Free assessment of the building and your needs"
+          },
+          {
+            "title": "Quote & Consultation",
+            "description": "Customized quote for the building manager or residents' meeting"
+          },
+          {
+            "title": "Regular Cleaning",
+            "description": "Cleaning begins according to the agreed schedule"
+          }
+        ]
+      },
+      "faq": [
+        {
+          "question": "How often should a stairwell be cleaned?",
+          "answer": "Cleaning frequency depends on the number of residents and traffic. We generally recommend 1-2 times per week, but high-traffic buildings may require daily cleaning."
+        },
+        {
+          "question": "How does payment work?",
+          "answer": "We work with monthly invoicing, residents can pay as part of common costs. We accept both cash and bank transfer payments."
+        },
+        {
+          "question": "Do you also do one-time cleaning?",
+          "answer": "Yes, in addition to regular contracts, we also take on one-time jobs, such as after renovations or before special events."
+        }
+      ]
+    },
+    "construction": {
+      "slug": "felujitas-utani-takaritas",
+      "metaTitle": "Post-Construction Cleaning in Szeged | KaDa Cleaning",
+      "metaDescription": "Professional post-construction and renovation cleaning in Szeged. Removal of construction dust, paint spots, adhesive residue. Request a free quote!",
+      "hero": {
+        "title": "Post-Construction Cleaning",
+        "subtitle": "Immaculate results after construction"
+      },
+      "intro": {
+        "title": "Professional Post-Construction Cleaning",
+        "p1": "After construction and renovation, a lot of dust, debris, paint spots, and adhesive residue remains, which requires special knowledge and equipment to remove. Regular cleaning cannot achieve the perfect results that a new or renovated property deserves.",
+        "p2": "With KaDa Cleaning's industrial machines and special cleaning agents, we guarantee that your property will be immaculately clean for move-in or handover. Our experienced team effectively removes all types of post-construction contamination."
+      },
+      "services": {
+        "title": "Our Post-Construction Cleaning Services",
+        "items": [
+          {
+            "title": "Construction Dust Removal",
+            "description": "Removal of fine cement and plaster dust from all surfaces, including hard-to-reach areas"
+          },
+          {
+            "title": "Paint Spot Cleaning",
+            "description": "Safe removal of paint drips and splatters from windows, floors, tiles"
+          },
+          {
+            "title": "Adhesive Residue",
+            "description": "Removal of tile adhesive, silicone, foam, and other construction material residues"
+          },
+          {
+            "title": "Window Deep Cleaning",
+            "description": "Removal of construction dust and film, frame cleaning, sill dusting"
+          },
+          {
+            "title": "Machine Floor Cleaning",
+            "description": "Machine deep cleaning and polishing of tile, hardwood, laminate floors"
+          },
+          {
+            "title": "Sanitaryware Polishing",
+            "description": "Thorough cleaning and polishing of toilets, sinks, faucets, shower cabins"
+          }
+        ]
+      },
+      "benefits": [
+        "Industrial machines and special cleaning agents",
+        "Experienced team in construction cleaning",
+        "Appropriate technology for all surface types",
+        "Fast and efficient work",
+        "Immaculate results ready for handover",
+        "Warranty re-cleaning if needed"
+      ],
+      "process": {
+        "steps": [
+          {
+            "title": "Assessment",
+            "description": "We assess the work based on construction type and contamination level"
+          },
+          {
+            "title": "Quote",
+            "description": "Per-square-meter or fixed-price quote according to your needs"
+          },
+          {
+            "title": "Deep Cleaning",
+            "description": "Professional, thorough cleaning in every room"
+          },
+          {
+            "title": "Quality Check",
+            "description": "Final inspection before handover, corrections if needed"
+          }
+        ]
+      },
+      "faq": [
+        {
+          "question": "When can cleaning begin?",
+          "answer": "After construction work is fully complete, when paint and adhesives have dried. We generally recommend 24-48 hours after work completion."
+        },
+        {
+          "question": "How long does post-renovation cleaning take?",
+          "answer": "This depends on the property size and level of contamination. For an average apartment, 4-8 hours; for larger areas, it may take 1-2 days."
+        },
+        {
+          "question": "What if something isn't perfect?",
+          "answer": "We offer a 100% satisfaction guarantee. If you find any deficiency, we'll return and correct it free of charge."
+        }
+      ]
+    },
+    "deep": {
+      "slug": "nagytakaritas",
+      "metaTitle": "Deep Home Cleaning in Szeged | KaDa Cleaning",
+      "metaDescription": "Professional deep home cleaning in Szeged. Pre/post-move, spring cleaning. Deep cleaning, sanitization. Request a quote!",
+      "hero": {
+        "title": "Deep Home Cleaning",
+        "subtitle": "Thorough cleaning, sparkling home"
+      },
+      "intro": {
+        "title": "When Regular Cleaning Isn't Enough",
+        "p1": "During everyday cleaning, many areas get missed: areas behind furniture, hard-to-reach corners, the inside of kitchen appliances. Over time, dust, grease, and dirt accumulate in these places, which can cause allergens and unpleasant odors.",
+        "p2": "With KaDa Cleaning's deep cleaning service, we clean every corner. With our professional equipment and methods, we perform such thorough cleaning that your home will sparkle again. Ideal before/after moving, at seasonal changes, or whenever deep cleaning is needed."
+      },
+      "services": {
+        "title": "Our Deep Cleaning Services",
+        "items": [
+          {
+            "title": "Kitchen Deep Clean",
+            "description": "Interior and exterior cleaning of oven, fridge, microwave, range hood, degreasing"
+          },
+          {
+            "title": "Thorough Bathroom Cleaning",
+            "description": "Limescale removal, mold removal, grout cleaning, sanitizer disinfection"
+          },
+          {
+            "title": "Windows & Blinds",
+            "description": "Interior-exterior window cleaning, blinds, shutters, screen dusting"
+          },
+          {
+            "title": "Behind & Under Furniture",
+            "description": "Moving furniture (where possible), thorough cleaning behind and under them"
+          },
+          {
+            "title": "Textile Refreshing",
+            "description": "Upholstery, curtain, mattress dusting and refreshing"
+          },
+          {
+            "title": "Lights & Decor",
+            "description": "Chandelier, lamp, picture frame, decorative item dusting"
+          }
+        ]
+      },
+      "benefits": [
+        "We clean every corner that daily cleaning misses",
+        "Professional equipment and cleaning products",
+        "Hypoallergenic products safe for allergy sufferers",
+        "Elimination of unpleasant odors",
+        "Flexible scheduling, weekends too",
+        "Warranty re-cleaning if not satisfied"
+      ],
+      "process": {
+        "steps": [
+          {
+            "title": "Consultation",
+            "description": "We assess home size and special needs"
+          },
+          {
+            "title": "Quote",
+            "description": "Personalized quote preparation"
+          },
+          {
+            "title": "Deep Cleaning",
+            "description": "Thorough, methodical cleaning in every room"
+          },
+          {
+            "title": "Inspection",
+            "description": "Joint review to ensure everything meets expectations"
+          }
+        ]
+      },
+      "occasions": {
+        "title": "When Do We Recommend Deep Cleaning?",
+        "items": [
+          {
+            "title": "Before/After Moving",
+            "description": "Clean apartment handover/pickup"
+          },
+          {
+            "title": "Spring Cleaning",
+            "description": "Annual thorough cleaning"
+          },
+          {
+            "title": "Before Events",
+            "description": "Holidays, family gatherings"
+          },
+          {
+            "title": "For Allergy Sufferers",
+            "description": "Dust removal, allergen reduction"
+          }
+        ]
+      },
+      "faq": [
+        {
+          "question": "How long does a deep cleaning take?",
+          "answer": "For an average apartment (50-70 m²), it usually takes 4-6 hours. For larger apartments or heavier contamination, more time may be needed."
+        },
+        {
+          "question": "What should I prepare?",
+          "answer": "We recommend putting personal items and valuables in a safe place. We bring all necessary cleaning equipment and products."
+        },
+        {
+          "question": "Do I need to be home during cleaning?",
+          "answer": "Not necessarily. If you trust us, we can pick up a key. Of course, many clients prefer to stay home, which is perfectly fine."
+        }
+      ]
+    }
+  }
+}

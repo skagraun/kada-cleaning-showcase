@@ -1,0 +1,768 @@
+{
+  "common": {
+    "getQuote": "Kérjen ajánlatot",
+    "contact": "Kapcsolat",
+    "learnMore": "Tudjon meg többet",
+    "send": "Küldés",
+    "loading": "Betöltés...",
+    "close": "Bezárás",
+    "open": "Megnyitás",
+    "themeToggle": "Téma váltás"
+  },
+  "nav": {
+    "home": "Kezdőlap",
+    "services": "Szolgáltatásaink",
+    "pricing": "Áraink",
+    "about": "Rólunk",
+    "testimonials": "Vélemények",
+    "area": "Terület",
+    "faq": "GYIK",
+    "contact": "Kapcsolat"
+  },
+  "hero": {
+    "badge": "Professzionális takarítás",
+    "title1": "Tiszta terek,",
+    "title2": "elégedett ügyfelek",
+    "description": "Irodaházak, társasházak és építkezés utáni professzionális takarítás a legmagasabb minőségben.",
+    "feature1": "Professzionális csapat",
+    "feature2": "Környezetbarát szerek",
+    "feature3": "Rugalmas időpontok",
+    "cta": "Kérjen ajánlatot",
+    "imgAlt1": "KaDa Cleaning - Professzionális takarítás",
+    "imgAlt2": "KaDa Cleaning - Irodaház takarítás",
+    "imgAlt3": "KaDa Cleaning - Társasház takarítás"
+  },
+  "services": {
+    "title": "Szolgáltatásaink",
+    "subtitle": "Professzionális takarítási megoldások minden igényre",
+    "office": {
+      "title": "Irodaház takarítás",
+      "description": "Munkahelyünkön máris nagyobb lendülettel állunk neki napi teendőink végzésének, ha egy patyolat tiszta, átlátható tér fogad. Professzionális irodatakarítási szolgáltatásunk garantálja, hogy dolgozói mindig inspiráló, egészséges környezetben végezhessék munkájukat.",
+      "features": [
+        "Napi, heti vagy havi rendszerességű takarítás",
+        "Irodai bútorok és felületek portalanítása",
+        "Padlók gépi tisztítása és polírozása",
+        "Szőnyegtisztítás és karbantartás",
+        "Mosdók és közös helyiségek fertőtlenítése",
+        "Hulladékgyűjtés és szelektív szemétkezelés"
+      ],
+      "infoTitle": "Milyen gyakran kell takarítani egy irodaházat?",
+      "infoText": "Egy irodaház takarítási gyakorisága olyan tényezőktől függően változhat, mint az épület mérete, a dolgozók száma és az elvégzett munka jellege. Általában a közös helyiségeket és a nagy forgalmú zónákat naponta, míg az egyes irodákat és a ritkábban használt tereket hetente vagy kéthetente lehet takarítani."
+    },
+    "residential": {
+      "title": "Társasház takarítás",
+      "description": "A társasház lakóterületünk közös része, ahol szomszédjainkkal osztozunk. Rendszeres takarításunkkal biztosítjuk, hogy a lépcsőház, lift és közös helyiségek mindig tiszták és reprezentatívak maradjanak - növelve ezzel az ingatlan értékét is.",
+      "features": [
+        "Lépcsőházak és folyosók takarítása",
+        "Lift és közös helyiségek tisztítása",
+        "Bejárati ajtók és üvegfelületek tisztítása",
+        "Korlátok és kapaszkodók fertőtlenítése",
+        "Postaládák és csengők tisztítása",
+        "Téli síkosságmentesítés és hóeltakarítás"
+      ],
+      "infoTitle": "Társasház takarítás jól jön, amikor:",
+      "infoText": "A lépcsőház házi kedvencek nyomait viseli, lakótársak felújítási munkálatai után maradnak nyomok, vagy egyszerűen szeretné, hogy otthona közös terei mindig reprezentatívak és tiszták legyenek."
+    },
+    "construction": {
+      "title": "Építkezés, felújítás utáni takarítás",
+      "description": "Ha tökéletes végeredményre vágyik, akkor az építkezés, felújítás, festés utáni elcseppenések, ragasztófolyás, por és egyéb szennyeződések szakszerű eltávolítását cégünkre bízza. Ipari gépeinkkel és speciális tisztítószereinkkel garantáljuk a makulátlan eredményt.",
+      "features": [
+        "Építési por és törmelék eltávolítása",
+        "Festékfoltok és ragasztómaradványok tisztítása",
+        "Ablakok és üvegfelületek alapos tisztítása",
+        "Padlók és burkolatok gépi tisztítása",
+        "Szaniterek és csaptelepek polírozása",
+        "Végleges átadás előtti minőségellenőrzés"
+      ],
+      "infoTitle": "Építés utáni nagytakarítás:",
+      "infoText": "Az építkezések olyan rendetlenséget hagyhatnak maguk után, amely alapos tisztítást igényel. Biztosítjuk, hogy az újonnan épített vagy felújított ingatlanok makulátlanok legyenek, és készen álljanak a beköltözésre."
+    },
+    "deep": {
+      "title": "Lakás nagytakarítás",
+      "description": "Időnként mindannyiunknak szüksége van egy alapos nagytakarításra, amit mi professzionális szinten végzünk el. Legyen szó költözés előtti/utáni takarításról vagy egyszerűen egy mélyreható tisztításról - mi segítünk!",
+      "features": [
+        "Konyhai gépek mélytisztítása (sütő, hűtő, mikrohullámú)",
+        "Fürdőszoba vízkő- és penészmentesítése",
+        "Ablakok és redőnyök tisztítása",
+        "Bútorok mögötti és alatti területek takarítása",
+        "Csempék és fugák alapos tisztítása",
+        "Textilek és kárpitok frissítése"
+      ],
+      "infoTitle": "Mikor érdemes nagytakarítást rendelni?",
+      "infoText": "Költözés előtt/után, évszakváltáskor, nagyobb rendezvények előtt, vagy ha egyszerűen szeretné, hogy otthona újra ragyogjon. Ajánljuk évente legalább 2-4 alkalommal."
+    }
+  },
+  "pricing": {
+    "title": "Áraink",
+    "subtitle": "Átlátható árak, nincsenek rejtett költségek",
+    "popular": "Népszerű",
+    "plans": {
+      "basic": {
+        "name": "Társasház alap",
+        "description": "Kisebb társasházak rendszeres takarítására",
+        "price": "25 000",
+        "unit": "Ft/alkalom",
+        "features": [
+          "Lépcsőház takarítás (max. 4 emelet)",
+          "Bejárat és előtér tisztítása",
+          "Korlátok fertőtlenítése",
+          "Postaládák törlése",
+          "Heti 1 alkalom"
+        ],
+        "cta": "Ajánlatot kérek"
+      },
+      "premium": {
+        "name": "Társasház prémium",
+        "description": "Nagyobb társasházak teljes körű takarítására",
+        "price": "45 000",
+        "unit": "Ft/alkalom",
+        "features": [
+          "Lépcsőház takarítás (korlátlan emelet)",
+          "Lift és közös helyiségek",
+          "Ablaktisztítás (negyedévente)",
+          "Udvari területek söprése",
+          "Heti 2 alkalom",
+          "Rugalmas időpontok"
+        ],
+        "cta": "Legnépszerűbb"
+      },
+      "office": {
+        "name": "Irodaház",
+        "description": "Irodák és üzlethelyiségek számára",
+        "price": "Egyedi",
+        "unit": "árajánlat",
+        "features": [
+          "Napi/heti takarítás",
+          "Irodai felületek tisztítása",
+          "Mosdók fertőtlenítése",
+          "Konyha/étkező takarítás",
+          "Szőnyegtisztítás (havonta)",
+          "Munkaidőn kívüli takarítás"
+        ],
+        "cta": "Ajánlatot kérek"
+      }
+    },
+    "additional": {
+      "title": "Egyéb szolgáltatások",
+      "window": { "name": "Ablaktisztítás", "price": "500 Ft/m²" },
+      "carpet": { "name": "Szőnyegtisztítás", "price": "800 Ft/m²" },
+      "deep": { "name": "Nagytakarítás", "price": "3 000 Ft/m²" },
+      "construction": { "name": "Építés utáni takarítás", "price": "4 000 Ft/m²" }
+    },
+    "disclaimer": "* Az árak tájékoztató jellegűek. Pontos árajánlatért kérjük, vegye fel velünk a kapcsolatot. Ingyenes helyszíni felmérést biztosítunk.",
+    "cta": "Ajánlatot kérek"
+  },
+  "about": {
+    "title": "Rólunk",
+    "subtitle": "Ismerje meg a KaDa Cleaning csapatát",
+    "stats": {
+      "founded": "Alapítás éve",
+      "experience": "Év szakmai tapasztalat",
+      "area": "és környéke",
+      "guarantee": "Elégedettségi garancia"
+    },
+    "mission": {
+      "title": "Küldetésünk a tisztaság",
+      "p1": "A KaDa Cleaning 2025 januárjában alakult azzal a céllal, hogy professzionális takarítási szolgáltatásokat nyújtson magánszemélyek és cégek számára egyaránt Szegeden és környékén.",
+      "p2": "Tapasztalt szakemberekből álló csapatunk minden tagja átesett alapos képzésen, és elkötelezett amellett, hogy minden munkát a lehető legmagasabb színvonalon végezzen el.",
+      "p3": "Büszkék vagyunk arra, hogy kizárólag környezetbarát, hypoallergén tisztítószereket használunk, amelyek biztonságosak az Ön családja és háziállatai számára is.",
+      "p4": "Hiszünk abban, hogy a tiszta környezet nem luxus, hanem alapvető szükséglet - és mi segítünk ezt elérni."
+    },
+    "features": {
+      "team": {
+        "title": "Tapasztalt csapat",
+        "description": "Minden munkatársunk átesett alapos képzésen és rendelkezik a szükséges szakmai tapasztalattal. Folyamatosan fejlesztjük tudásunkat az új tisztítási technológiák terén."
+      },
+      "eco": {
+        "title": "Környezetbarát megoldások",
+        "description": "Kizárólag környezetbarát, hipoallergén tisztítószereket használunk, amelyek biztonságosak gyermekek és háziállatok számára is, miközben hatékonyan távolítják el a szennyeződéseket."
+      },
+      "quality": {
+        "title": "Minőséggarancia",
+        "description": "Ha nem elégedett munkánkkal, díjmentesen visszamegyünk és újratakarítunk. Számunkra az ügyfél elégedettsége az első - ezt garantáljuk minden megrendelésünknél."
+      },
+      "flexible": {
+        "title": "Rugalmas időpontok",
+        "description": "Alkalmazkodunk az Ön időbeosztásához - legyen szó reggeli, esti vagy hétvégi takarításról. Online foglalási rendszerünkkel könnyedén kiválaszthatja az Önnek megfelelő időpontot."
+      },
+      "insured": {
+        "title": "Biztosított szolgáltatás",
+        "description": "Teljes körű felelősségbiztosítással rendelkezünk, így Ön nyugodt lehet. Munkatársaink megbízhatóak és diszkrétek - otthona biztonságban van velünk."
+      },
+      "support": {
+        "title": "Ügyfélszolgálat",
+        "description": "Kérdése van? Ügyfélszolgálatunk hétköznap 8:00-18:00 között elérhető. Gyors válaszidővel és személyre szabott megoldásokkal állunk rendelkezésére."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Vélemények",
+    "subtitle": "Mit mondanak rólunk ügyfeleink?",
+    "cta": "Csatlakozzon elégedett ügyfeleink táborához!",
+    "ctaButton": "Kérjen ajánlatot",
+    "reviews": {
+      "1": {
+        "name": "Kovács Péter",
+        "role": "Társasház közös képviselő",
+        "content": "Amióta a KaDa Cleaninggel dolgozunk, a lakók elégedettek, a lépcsőház mindig tiszta és rendezett. Megbízhatóak és rugalmasak - csak ajánlani tudom őket!"
+      },
+      "2": {
+        "name": "Nagy Eszter",
+        "role": "Irodavezető",
+        "content": "Az irodánk takarítását rájuk bíztuk, és nem csalódtunk. Precíz munkát végeznek, és mindig időben érkeznek. A dolgozók is észrevették a különbséget!"
+      },
+      "3": {
+        "name": "Szabó János",
+        "role": "Lakástulajdonos",
+        "content": "Felújítás után hívtuk őket nagytakarításra. Hihetetlen munkát végeztek - az építési port olyan helyekről is eltüntették, amire nem is gondoltunk volna."
+      },
+      "4": {
+        "name": "Tóth Mária",
+        "role": "Családi ház tulajdonos",
+        "content": "Évente kétszer rendeljük meg a nagytakarítást. Környezetbarát szereket használnak, ami fontos nekünk a gyerekek és a kutya miatt. Kiváló minőség!"
+      },
+      "5": {
+        "name": "Horváth Gábor",
+        "role": "Építési vállalkozó",
+        "content": "Minden átadás előtt a KaDa Cleaninget hívom. Gyorsak, alaposak, és az ügyfeleim mindig elégedettek az eredménnyel. Profi csapat!"
+      },
+      "6": {
+        "name": "Varga Katalin",
+        "role": "Airbnb tulajdonos",
+        "content": "Több apartmant is bérbe adok, és a KaDa Cleaning-re mindig számíthatok a vendégváltások közötti takarításnál. Rugalmasak és megbízhatóak."
+      }
+    }
+  },
+  "serviceArea": {
+    "title": "Szolgáltatási terület",
+    "subtitle": "Hol vagyunk elérhetőek?",
+    "regions": {
+      "szeged": "Szeged",
+      "surrounding": "Környék"
+    },
+    "highlights": [
+      "Ingyenes helyszíni felmérés",
+      "Rugalmas időpontok",
+      "Gyors reagálás",
+      "Rendszeres és eseti megbízások"
+    ],
+    "cta": {
+      "title": "Érdekli szolgáltatásunk?",
+      "description": "Vegye fel velünk a kapcsolatot és kérjen ingyenes árajánlatot! Szegeden és 30 km-es körzetben vállalunk munkát.",
+      "button": "Érdeklődöm"
+    }
+  },
+  "faq": {
+    "title": "Gyakran ismételt kérdések",
+    "subtitle": "Válaszok a leggyakoribb kérdésekre",
+    "notFound": "Nem találta meg a választ a kérdésére?",
+    "contactUs": "Írjon nekünk!",
+    "questions": {
+      "1": {
+        "question": "Milyen gyakran ajánlott a társasház takarítása?",
+        "answer": "A takarítás gyakoriságát a társasház mérete, a lakók száma és a forgalom határozza meg. Általában hetente 1-2 alkalmat javaslunk, de nagyobb épületeknél napi takarítás is szükséges lehet. Az első konzultáció során felmérjük az Ön igényeit és személyre szabott ajánlatot készítünk."
+      },
+      "2": {
+        "question": "Milyen tisztítószereket használnak?",
+        "answer": "Kizárólag professzionális, környezetbarát és hypoallergén tisztítószereket használunk, amelyek biztonságosak gyermekek és háziállatok számára is. Minden termékünk rendelkezik a szükséges minőségi tanúsítványokkal."
+      },
+      "3": {
+        "question": "Mennyibe kerül a takarítási szolgáltatás?",
+        "answer": "Az ár több tényezőtől függ: a takarítandó terület mérete, a takarítás típusa és gyakorisága, valamint az esetleges speciális igények. Ingyenes helyszíni felméréssel és személyre szabott árajánlattal állunk rendelkezésére."
+      },
+      "4": {
+        "question": "Van garancia a munkájukra?",
+        "answer": "Igen! 100% elégedettségi garanciát vállalunk minden munkánkra. Ha nem elégedett az eredménnyel, díjmentesen visszamegyünk és újratakarítunk. Emellett teljes körű felelősségbiztosítással rendelkezünk."
+      },
+      "5": {
+        "question": "Hogyan történik a foglalás és fizetés?",
+        "answer": "A foglalás történhet telefonon, emailben vagy a weboldalunkon keresztül. Első alkalommal ingyenes helyszíni felmérést végzünk. A fizetés készpénzben vagy átutalással történhet a munka elvégzése után. Rendszeres megbízásoknál havi számlázást is biztosítunk."
+      },
+      "6": {
+        "question": "Hétvégén vagy ünnepnapokon is dolgoznak?",
+        "answer": "Igen, alkalmazkodunk ügyfeleink igényeihez. Hétvégi és ünnepnapi takarítást is vállalunk előzetes egyeztetés alapján. Irodaházaknál gyakran munkaidőn kívül végezzük a takarítást, hogy ne zavarjuk a munkavégzést."
+      },
+      "7": {
+        "question": "Mi történik, ha nem vagyok otthon a takarítás idején?",
+        "answer": "Rendszeres ügyfeleink gyakran kulcsot bíznak ránk. Minden munkatársunk átesett háttérellenőrzésen és megbízhatósági vizsgálaton. A kulcsokat biztonságosan tároljuk, és szigorú protokoll szerint kezeljük."
+      },
+      "8": {
+        "question": "Vállalnak speciális takarítási feladatokat is?",
+        "answer": "Igen! A standard takarítás mellett vállalunk ablaktisztítást, szőnyegtisztítást, kárpit tisztítást, mélyreható vízkőmentesítést és egyéb speciális feladatokat is. Kérje egyedi ajánlatunkat!"
+      }
+    }
+  },
+  "contact": {
+    "title": "Kapcsolat",
+    "subtitle": "Kérjen ingyenes árajánlatot még ma!",
+    "sidebar": {
+      "title": "Lépjen kapcsolatba velünk!",
+      "description": "Töltse ki az űrlapot és hamarosan felvesszük Önnel a kapcsolatot. Számunkra első a minőség és célunk a 100%-ban elégedett ügyfél!",
+      "email": "Email",
+      "phone": "Telefon",
+      "area": "Terület",
+      "comingSoon": "Hamarosan"
+    },
+    "trust": {
+      "title": "Gyors válasz",
+      "description": "24 órán belül válaszolunk"
+    },
+    "form": {
+      "title": "Ajánlatkérés",
+      "lastName": "Vezetéknév",
+      "lastNamePlaceholder": "Kovács",
+      "firstName": "Keresztnév",
+      "firstNamePlaceholder": "János",
+      "email": "Email cím",
+      "emailPlaceholder": "pelda@email.hu",
+      "phone": "Telefonszám",
+      "phonePlaceholder": "+36 30 123 4567",
+      "message": "Üzenet",
+      "messagePlaceholder": "Írja le, miben segíthetünk...",
+      "submit": "Üzenet küldése",
+      "success": "Sikeres küldés!",
+      "successDescription": "Az ajánlat kérés sikeresen továbbítva lett!",
+      "error": "Hiba történt!"
+    }
+  },
+  "cookie": {
+    "title": "Cookie-kat használunk",
+    "description": "Weboldalunk cookie-kat használ a felhasználói élmény javítása és az oldal forgalmának elemzése céljából. Az \"Elfogadom\" gombra kattintva hozzájárul a cookie-k használatához.",
+    "privacyLink": "Adatvédelmi tájékoztató",
+    "accept": "Elfogadom",
+    "decline": "Elutasítom"
+  },
+  "footer": {
+    "description": "Professzionális takarítási szolgáltatások irodaházak, társasházak számára.",
+    "copyright": "Minden jog fenntartva",
+    "madeBy": "Készítette:"
+  },
+  "notFound": {
+    "title": "Az oldal nem található",
+    "description": "A keresett oldal nem létezik vagy áthelyezésre került.",
+    "backHome": "Vissza a főoldalra"
+  },
+  "floatingButtons": {
+    "backToTop": "Vissza a tetejére",
+    "call": "Hívás",
+    "contact": "Kapcsolatfelvétel",
+    "whatsappMessage": "Szia! Érdeklődnék a takarítási szolgáltatásokról."
+  },
+  "privacy": {
+    "title": "Adatvédelmi Tájékoztató",
+    "backToHome": "Vissza a főoldalra",
+    "lastUpdated": "Utolsó frissítés",
+    "intro": "A KaDa Cleaning elkötelezett az Ön személyes adatainak védelme mellett. Ez az adatvédelmi tájékoztató ismerteti, hogyan gyűjtjük, használjuk és védjük az Ön adatait szolgáltatásaink igénybevétele során.",
+    "sections": {
+      "dataController": {
+        "title": "Adatkezelő",
+        "content": "Az adatkezelő a KaDa Cleaning (székhely: Szeged). Az adatkezeléssel kapcsolatos kérdésekkel forduljon hozzánk az info@kadacleaning.hu email címen."
+      },
+      "dataCollection": {
+        "title": "Gyűjtött adatok",
+        "content": "A kapcsolatfelvételi űrlapon keresztül az alábbi adatokat gyűjtjük: vezetéknév, keresztnév, email cím, telefonszám és az Ön üzenete. Ezen felül a weboldal használata során cookie-k segítségével névtelen statisztikai adatokat gyűjtünk."
+      },
+      "purpose": {
+        "title": "Adatkezelés célja",
+        "content": "Az Ön adatait kizárólag az Önnel való kapcsolatfelvételre, ajánlatkérés megválaszolására, valamint szolgáltatásaink teljesítésére használjuk fel. Az adatokat harmadik félnek nem adjuk át marketing célokra."
+      },
+      "legalBasis": {
+        "title": "Jogalap",
+        "content": "Az adatkezelés jogalapja az Ön hozzájárulása (GDPR 6. cikk (1) bekezdés a) pont), amelyet a kapcsolatfelvételi űrlap kitöltésével ad meg. Hozzájárulását bármikor visszavonhatja."
+      },
+      "retention": {
+        "title": "Adatmegőrzési idő",
+        "content": "A kapcsolatfelvételi adatokat az ajánlatkérés megválaszolásáig, illetve szerződéskötés esetén a szerződés megszűnésétől számított 5 évig őrizzük meg a jogszabályi kötelezettségeknek megfelelően."
+      },
+      "rights": {
+        "title": "Az Ön jogai",
+        "content": "A GDPR alapján Ön az alábbi jogokkal rendelkezik:",
+        "list": {
+          "access": "Hozzáférési jog: tájékoztatást kérhet az Önről tárolt adatokról",
+          "rectification": "Helyesbítési jog: kérheti pontatlan adatai javítását",
+          "erasure": "Törléshez való jog: kérheti adatai törlését",
+          "restriction": "Korlátozáshoz való jog: kérheti az adatkezelés korlátozását",
+          "portability": "Adathordozhatóság: kérheti adatai átadását",
+          "objection": "Tiltakozási jog: tiltakozhat az adatkezelés ellen"
+        }
+      },
+      "cookies": {
+        "title": "Cookie-k (sütik)",
+        "content": "Weboldalunk cookie-kat használ a felhasználói élmény javítására és névtelen statisztikák gyűjtésére (Google Analytics). A cookie-k használatához az első látogatáskor hozzájárulását kérjük. A cookie-beállításokat böngészőjében bármikor módosíthatja."
+      },
+      "contact": {
+        "title": "Kapcsolat",
+        "content": "Adatvédelmi kérdéseivel forduljon hozzánk: info@kadacleaning.hu. Panasz esetén a Nemzeti Adatvédelmi és Információszabadság Hatósághoz (NAIH) fordulhat: www.naih.hu"
+      }
+    },
+    "footerNote": "Ez a tájékoztató 2025. január 1-től érvényes. Fenntartjuk a jogot a tájékoztató módosítására, a változásokról weboldalunkon tájékoztatjuk."
+  },
+  "servicePages": {
+    "backToHome": "Vissza a főoldalra",
+    "getQuote": "Kérjen árajánlatot",
+    "whyChooseUs": "Miért minket válasszon?",
+    "process": "Hogyan dolgozunk?",
+    "otherServices": "További szolgáltatásaink",
+    "office": {
+      "slug": "irodahaz-takaritas",
+      "metaTitle": "Irodaház takarítás Szegeden | KaDa Cleaning",
+      "metaDescription": "Professzionális irodaház takarítás Szegeden és környékén. Napi, heti takarítás, fertőtlenítés, gépi padlótisztítás. Kérjen ingyenes árajánlatot!",
+      "hero": {
+        "title": "Irodaház takarítás",
+        "subtitle": "Professzionális irodatakarítás a produktív munkakörnyezetért"
+      },
+      "intro": {
+        "title": "Tiszta iroda, elégedett dolgozók",
+        "p1": "A tiszta, rendezett munkakörnyezet nem csupán esztétikai kérdés - közvetlenül befolyásolja a dolgozók produktivitását, egészségét és a cég imázsát. Egy higiénikus irodatér csökkenti a betegségek terjedését és növeli a munkahelyi elégedettséget.",
+        "p2": "A KaDa Cleaning professzionális irodatakarítási szolgáltatásával biztosítjuk, hogy munkatársai minden nap egy ragyogóan tiszta, inspiráló környezetben kezdhessék a munkát. Tapasztalt csapatunk a legmodernebb eszközökkel és környezetbarát tisztítószerekkel dolgozik."
+      },
+      "services": {
+        "title": "Irodatakarítási szolgáltatásaink",
+        "items": [
+          {
+            "title": "Napi rendszeres takarítás",
+            "description": "Irodai felületek portalanítása, padlók tisztítása, kukák ürítése, általános rendrakás"
+          },
+          {
+            "title": "Mosdók és konyhák fertőtlenítése",
+            "description": "Szaniterek alapos tisztítása, csaptelepek polírozása, konyhai eszközök és felületek fertőtlenítése"
+          },
+          {
+            "title": "Padlók gépi tisztítása",
+            "description": "Ipari gépeinkkel végzett mélytisztítás és polírozás minden padlótípushoz"
+          },
+          {
+            "title": "Szőnyegtisztítás",
+            "description": "Irodai szőnyegek és szőnyegpadlók professzionális gépi tisztítása, folteltávolítás"
+          },
+          {
+            "title": "Ablaktisztítás",
+            "description": "Belső és külső ablakfelületek tisztítása, kerettisztítás, párkányok portalanítása"
+          },
+          {
+            "title": "Speciális tisztítás",
+            "description": "Kárpittisztítás, légkondicionálók tisztítása, magasban végzett munkák"
+          }
+        ]
+      },
+      "benefits": [
+        "Munkaidőn kívüli takarítás - nem zavarjuk a munkavégzést",
+        "Rugalmas időbeosztás az Ön igényei szerint",
+        "Környezetbarát, hypoallergén tisztítószerek",
+        "Teljes körű felelősségbiztosítás",
+        "Megbízható, ellenőrzött munkatársak",
+        "100% elégedettségi garancia"
+      ],
+      "process": {
+        "steps": [
+          {
+            "title": "Ingyenes felmérés",
+            "description": "Felkeressük az irodát, felmérjük az igényeket és a területet"
+          },
+          {
+            "title": "Személyre szabott ajánlat",
+            "description": "Részletes árajánlatot készítünk az Ön igényei alapján"
+          },
+          {
+            "title": "Szerződéskötés",
+            "description": "Rugalmas szerződési feltételek, nincs hosszú távú elköteleződés"
+          },
+          {
+            "title": "Rendszeres takarítás",
+            "description": "Megbízható, minőségi munkavégzés a megbeszélt ütemezés szerint"
+          }
+        ]
+      },
+      "faq": [
+        {
+          "question": "Milyen gyakran ajánlott az irodatakarítás?",
+          "answer": "Ez az irodamérettől és a dolgozók számától függ. Általában napi vagy heti 2-3 alkalmat javaslunk a közös terek és mosdók esetében, míg az egyéni irodákat hetente elegendő takarítani."
+        },
+        {
+          "question": "Dolgoznak munkaidőn kívül is?",
+          "answer": "Igen, kifejezetten ajánljuk a munkaidőn kívüli takarítást, hogy ne zavarjuk az irodai munkát. Kora reggeli, esti és hétvégi időpontokat is tudunk vállalni."
+        },
+        {
+          "question": "Hoznak saját eszközöket és tisztítószereket?",
+          "answer": "Igen, minden szükséges eszközt és professzionális tisztítószert mi biztosítunk. Kizárólag környezetbarát, hypoallergén termékeket használunk."
+        }
+      ]
+    },
+    "residential": {
+      "slug": "tarsashaz-takaritas",
+      "metaTitle": "Társasház takarítás Szegeden | KaDa Cleaning",
+      "metaDescription": "Professzionális társasház és lépcsőház takarítás Szegeden. Rendszeres takarítás, fertőtlenítés, téli síkosságmentesítés. Kérjen ingyenes ajánlatot!",
+      "hero": {
+        "title": "Társasház takarítás",
+        "subtitle": "Tiszta lépcsőház, elégedett lakók, értékes ingatlan"
+      },
+      "intro": {
+        "title": "Reprezentatív közös terek",
+        "p1": "A társasház közös terei az első benyomást keltik a látogatókban és a leendő vevőkben. A rendszeresen takarított, gondozott lépcsőház és közös helyiségek nemcsak kellemesebb lakókörnyezetet biztosítanak, hanem növelik az ingatlan értékét is.",
+        "p2": "A KaDa Cleaning átfogó társasházi takarítási szolgáltatást kínál, amely magában foglalja a lépcsőházak, liftek, közös helyiségek és udvarok rendszeres tisztán tartását. Rugalmas szolgáltatási csomagjainkkal minden méretű társasház igényeit ki tudjuk elégíteni."
+      },
+      "services": {
+        "title": "Társasházi takarítási szolgáltatásaink",
+        "items": [
+          {
+            "title": "Lépcsőház takarítás",
+            "description": "Lépcsőfokok, korlátok, falak tisztítása, portalanítás, felmosás minden emeleten"
+          },
+          {
+            "title": "Lift tisztítása",
+            "description": "Liftkabinok belső tisztítása, tükrök polírozása, padló takarítása, gombok fertőtlenítése"
+          },
+          {
+            "title": "Bejárat és előtér",
+            "description": "Bejárati ajtók, üvegfelületek tisztítása, előtér felmosása, postaládák törlése"
+          },
+          {
+            "title": "Közös helyiségek",
+            "description": "Mosókonyha, szárító, tároló helyiségek, kerékpártároló takarítása"
+          },
+          {
+            "title": "Udvar és parkoló",
+            "description": "Udvari járdák söprése, parkoló takarítása, zöldterületek körüli tisztítás"
+          },
+          {
+            "title": "Téli szolgáltatások",
+            "description": "Síkosságmentesítés, hólapátolás, jégmentesítés a biztonságos közlekedésért"
+          }
+        ]
+      },
+      "benefits": [
+        "Rendszeres, megbízható takarítás - mindig tiszta lépcsőház",
+        "Növeli az ingatlan értékét és vonzerejét",
+        "Csökkenti a lakók közötti konfliktusokat",
+        "Rugalmas időbeosztás és szolgáltatási csomagok",
+        "Környezetbarát tisztítószerek használata",
+        "Teljes körű felelősségbiztosítás"
+      ],
+      "process": {
+        "steps": [
+          {
+            "title": "Kapcsolatfelvétel",
+            "description": "Vegye fel velünk a kapcsolatot telefonon, emailben vagy űrlapon"
+          },
+          {
+            "title": "Helyszíni felmérés",
+            "description": "Ingyenesen felmérjük a társasházat és az igényeket"
+          },
+          {
+            "title": "Ajánlat és egyeztetés",
+            "description": "Személyre szabott ajánlat a közös képviselő vagy lakógyűlés részére"
+          },
+          {
+            "title": "Rendszeres takarítás",
+            "description": "Megkezdődik a megbeszélt ütemezés szerinti takarítás"
+          }
+        ]
+      },
+      "faq": [
+        {
+          "question": "Milyen gyakran kell takarítani a lépcsőházat?",
+          "answer": "A takarítás gyakorisága a lakók számától és a forgalomtól függ. Általában heti 1-2 alkalmat javaslunk, de nagy forgalmú épületeknél napi takarítás is szükséges lehet."
+        },
+        {
+          "question": "Hogyan történik a fizetés?",
+          "answer": "Havi számlázással dolgozunk, a közös költség részeként fizethetik a lakók. Készpénzes és átutalásos fizetést is elfogadunk."
+        },
+        {
+          "question": "Vállalnak eseti takarítást is?",
+          "answer": "Igen, rendszeres szerződés mellett eseti megbízásokat is vállalunk, például felújítás után vagy különleges események előtt."
+        }
+      ]
+    },
+    "construction": {
+      "slug": "felujitas-utani-takaritas",
+      "metaTitle": "Felújítás utáni takarítás Szegeden | KaDa Cleaning",
+      "metaDescription": "Építkezés és felújítás utáni professzionális nagytakarítás Szegeden. Építési por, festékfoltok, ragasztó eltávolítása. Kérjen ingyenes árajánlatot!",
+      "hero": {
+        "title": "Felújítás utáni takarítás",
+        "subtitle": "Makulátlan végeredmény az építkezés után"
+      },
+      "intro": {
+        "title": "Professzionális építés utáni takarítás",
+        "p1": "Az építkezés és felújítás után rengeteg por, törmelék, festékfolt és ragasztómaradvány marad hátra, amelyek eltávolítása speciális tudást és eszközöket igényel. A hagyományos takarítással nem érhető el az a tökéletes eredmény, amit egy új vagy felújított ingatlan megérdemel.",
+        "p2": "A KaDa Cleaning ipari gépeivel és speciális tisztítószereivel garantáljuk, hogy az Ön ingatlan makulátlanul tiszta lesz a beköltözésre vagy átadásra. Tapasztalt csapatunk minden típusú építkezés utáni szennyeződést hatékonyan eltávolít."
+      },
+      "services": {
+        "title": "Építés utáni takarítási szolgáltatásaink",
+        "items": [
+          {
+            "title": "Építési por eltávolítása",
+            "description": "Finom cement- és gipszpor eltávolítása minden felületről, beleértve a nehezen elérhető helyeket"
+          },
+          {
+            "title": "Festékfoltok tisztítása",
+            "description": "Festékcseppek, fröccsenések biztonságos eltávolítása ablakokról, padlóról, csempéről"
+          },
+          {
+            "title": "Ragasztómaradványok",
+            "description": "Csemperagasztó, szilikon, hab és egyéb építőanyag maradványok eltávolítása"
+          },
+          {
+            "title": "Ablakok mélytisztítása",
+            "description": "Építési por és fólia eltávolítása, keretek tisztítása, párkányok portalanítása"
+          },
+          {
+            "title": "Padlók gépi tisztítása",
+            "description": "Csempe, parketta, laminált padló gépi mélytisztítása és polírozása"
+          },
+          {
+            "title": "Szaniterek polírozása",
+            "description": "WC, mosdó, csaptelepek, zuhanykabinok alapos tisztítása és fényesítése"
+          }
+        ]
+      },
+      "benefits": [
+        "Ipari gépek és speciális tisztítószerek",
+        "Tapasztalt csapat építkezési takarításban",
+        "Minden felülettípushoz megfelelő technológia",
+        "Gyors és hatékony munkavégzés",
+        "Átadásra kész, makulátlan eredmény",
+        "Garanciális újratakarítás szükség esetén"
+      ],
+      "process": {
+        "steps": [
+          {
+            "title": "Felmérés",
+            "description": "Az építkezés típusától és a szennyezettség mértékétől függően felmérjük a munkát"
+          },
+          {
+            "title": "Árajánlat",
+            "description": "Négyzetméter alapú vagy fix áras ajánlat az Ön igényei szerint"
+          },
+          {
+            "title": "Nagytakarítás",
+            "description": "Szakszerű, alapos takarítás minden helyiségben"
+          },
+          {
+            "title": "Minőségellenőrzés",
+            "description": "Végleges átvizsgálás az átadás előtt, szükség esetén javítások"
+          }
+        ]
+      },
+      "faq": [
+        {
+          "question": "Mikor lehet elkezdeni a takarítást?",
+          "answer": "Az építési munkálatok teljes befejezése után, amikor a festék és ragasztók már megszáradtak. Általában 24-48 órával a munkálatok befejezése után javasoljuk."
+        },
+        {
+          "question": "Mennyi ideig tart egy felújítás utáni takarítás?",
+          "answer": "Ez függ az ingatlan méretétől és a szennyezettség mértékétől. Egy átlagos lakás esetében 4-8 órát, nagyobb területeknél 1-2 napot is igénybe vehet."
+        },
+        {
+          "question": "Mi van, ha valami nem sikerül tökéletesen?",
+          "answer": "100% elégedettségi garanciát vállalunk. Ha bármilyen hiányosságot talál, díjmentesen visszamegyünk és korrigáljuk."
+        }
+      ]
+    },
+    "deep": {
+      "slug": "nagytakaritas",
+      "metaTitle": "Lakás nagytakarítás Szegeden | KaDa Cleaning",
+      "metaDescription": "Professzionális lakás nagytakarítás Szegeden. Költözés előtti/utáni, tavaszi nagytakarítás. Mélytisztítás, fertőtlenítés. Kérjen ajánlatot!",
+      "hero": {
+        "title": "Lakás nagytakarítás",
+        "subtitle": "Mélyreható tisztítás, ragyogó otthon"
+      },
+      "intro": {
+        "title": "Amikor a hagyományos takarítás nem elég",
+        "p1": "A mindennapos takarítás során sok hely kimarad: a bútorok mögötti területek, a nehezen elérhető sarkok, a konyhai gépek belseje. Idővel ezeken a helyeken felgyűlik a por, zsír és szennyeződés, ami allergéneket és kellemetlen szagokat okozhat.",
+        "p2": "A KaDa Cleaning nagytakarítási szolgáltatásával minden zugot megtisztítunk. Professzionális eszközeinkkel és módszereinkkel olyan mélytisztítást végzünk, amellyel otthona újra ragyogni fog. Ideális költözés előtt/után, évszakváltáskor vagy bármikor, amikor alapos tisztításra van szükség."
+      },
+      "services": {
+        "title": "Nagytakarítási szolgáltatásaink",
+        "items": [
+          {
+            "title": "Konyha mélytisztítás",
+            "description": "Sütő, hűtő, mikrohullámú sütő, páraelszívó belső és külső tisztítása, zsírtalanítás"
+          },
+          {
+            "title": "Fürdőszoba alapos tisztítás",
+            "description": "Vízkőmentesítés, penészeltávolítás, fugák tisztítása, szaniterek fertőtlenítése"
+          },
+          {
+            "title": "Ablakok és redőnyök",
+            "description": "Ablakok belső-külső tisztítása, redőnyök, zsaluk, szúnyoghálók portalanítása"
+          },
+          {
+            "title": "Bútorok mögött és alatt",
+            "description": "Bútorok elmozdítása (lehetőség szerint), mögöttük és alattuk alapos takarítás"
+          },
+          {
+            "title": "Textilek frissítése",
+            "description": "Kárpitok, függönyök, matracok portalanítása és frissítése"
+          },
+          {
+            "title": "Lámpák és dekoráció",
+            "description": "Csillárok, lámpák, képkeretek, dekorációs elemek portalanítása"
+          }
+        ]
+      },
+      "benefits": [
+        "Minden zugot megtisztítunk, amit a hétköznapi takarítás kihagy",
+        "Professzionális eszközök és tisztítószerek",
+        "Allergiásoknak is biztonságos, hypoallergén szerek",
+        "Kellemetlen szagok megszüntetése",
+        "Rugalmas időpontok, hétvégén is",
+        "Garanciális újratakarítás elégedetlenség esetén"
+      ],
+      "process": {
+        "steps": [
+          {
+            "title": "Egyeztetés",
+            "description": "Felmérjük az otthon méretét és az speciális igényeket"
+          },
+          {
+            "title": "Árajánlat",
+            "description": "Személyre szabott árajánlat készítése"
+          },
+          {
+            "title": "Nagytakarítás",
+            "description": "Alapos, módszeres takarítás minden helyiségben"
+          },
+          {
+            "title": "Ellenőrzés",
+            "description": "Közös átnézés, hogy minden az elvárásoknak megfelelő"
+          }
+        ]
+      },
+      "occasions": {
+        "title": "Mikor ajánljuk a nagytakarítást?",
+        "items": [
+          {
+            "title": "Költözés előtt/után",
+            "description": "Tiszta lakás átadása/átvétele"
+          },
+          {
+            "title": "Tavaszi nagytakarítás",
+            "description": "Éves alapos tisztítás"
+          },
+          {
+            "title": "Rendezvények előtt",
+            "description": "Ünnepek, családi események"
+          },
+          {
+            "title": "Allergiásoknak",
+            "description": "Pormentesítés, allergén csökkentés"
+          }
+        ]
+      },
+      "faq": [
+        {
+          "question": "Mennyi ideig tart egy nagytakarítás?",
+          "answer": "Egy átlagos lakás esetében (50-70 m²) általában 4-6 órát vesz igénybe. Nagyobb lakásoknál vagy erősebb szennyezettség esetén több idő is kellhet."
+        },
+        {
+          "question": "Mit kell nekem előkészítenem?",
+          "answer": "Javasoljuk, hogy a személyes tárgyakat, értékeket tegye biztonságos helyre. A takarításhoz szükséges minden eszközt és szert mi hozunk."
+        },
+        {
+          "question": "Otthon kell lennem a takarítás alatt?",
+          "answer": "Nem feltétlenül. Ha bízik bennünk, kulcsot is átvehetünk. Természetesen sok ügyfelünk inkább otthon marad, ami teljesen rendben van."
+        }
+      ]
+    }
+  }
+}

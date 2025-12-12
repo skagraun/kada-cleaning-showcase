@@ -1,0 +1,768 @@
+{
+  "common": {
+    "getQuote": "Angebot anfordern",
+    "contact": "Kontakt",
+    "learnMore": "Mehr erfahren",
+    "send": "Senden",
+    "loading": "Laden...",
+    "close": "Schließen",
+    "open": "Öffnen",
+    "themeToggle": "Theme wechseln"
+  },
+  "nav": {
+    "home": "Startseite",
+    "services": "Leistungen",
+    "pricing": "Preise",
+    "about": "Über uns",
+    "testimonials": "Bewertungen",
+    "area": "Gebiet",
+    "faq": "FAQ",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "badge": "Professionelle Reinigung",
+    "title1": "Saubere Räume,",
+    "title2": "zufriedene Kunden",
+    "description": "Professionelle Reinigung von Bürogebäuden, Wohnanlagen und nach Bauarbeiten in höchster Qualität.",
+    "feature1": "Professionelles Team",
+    "feature2": "Umweltfreundliche Produkte",
+    "feature3": "Flexible Termine",
+    "cta": "Angebot anfordern",
+    "imgAlt1": "KaDa Cleaning - Professionelle Reinigung",
+    "imgAlt2": "KaDa Cleaning - Büroreinigung",
+    "imgAlt3": "KaDa Cleaning - Wohnungsreinigung"
+  },
+  "services": {
+    "title": "Unsere Leistungen",
+    "subtitle": "Professionelle Reinigungslösungen für jeden Bedarf",
+    "office": {
+      "title": "Bürogebäudereinigung",
+      "description": "Wir gehen unsere täglichen Aufgaben am Arbeitsplatz mit größerem Schwung an, wenn uns ein makelloser, übersichtlicher Raum empfängt. Unser professioneller Büroreinigungsservice garantiert, dass Ihre Mitarbeiter stets in einer inspirierenden, gesunden Umgebung arbeiten können.",
+      "features": [
+        "Tägliche, wöchentliche oder monatliche Reinigung",
+        "Entstaubung von Büromöbeln und Oberflächen",
+        "Maschinelle Bodenreinigung und Polieren",
+        "Teppichreinigung und -pflege",
+        "Desinfektion von Toiletten und Gemeinschaftsräumen",
+        "Müllsammlung und selektive Abfallentsorgung"
+      ],
+      "infoTitle": "Wie oft sollte ein Bürogebäude gereinigt werden?",
+      "infoText": "Die Reinigungshäufigkeit eines Bürogebäudes kann je nach Faktoren wie Gebäudegröße, Mitarbeiterzahl und Art der durchgeführten Arbeit variieren. Im Allgemeinen sollten Gemeinschaftsbereiche und stark frequentierte Zonen täglich gereinigt werden, während einzelne Büros und weniger genutzte Räume wöchentlich oder alle zwei Wochen gereinigt werden können."
+    },
+    "residential": {
+      "title": "Mehrfamilienhausreinigung",
+      "description": "Das Mehrfamilienhaus ist ein gemeinsamer Bereich unseres Wohnraums, den wir mit unseren Nachbarn teilen. Mit unserer regelmäßigen Reinigung stellen wir sicher, dass Treppenhaus, Aufzug und Gemeinschaftsräume stets sauber und repräsentativ bleiben - was auch den Immobilienwert steigert.",
+      "features": [
+        "Treppenhaus- und Flurreinigung",
+        "Aufzug- und Gemeinschaftsraumreinigung",
+        "Eingangstür- und Glasflächenreinigung",
+        "Handlauf- und Geländerdesinfektion",
+        "Briefkasten- und Klingelreinigung",
+        "Winterliche Glättebeseitigung und Schneeräumung"
+      ],
+      "infoTitle": "Mehrfamilienhausreinigung ist nützlich, wenn:",
+      "infoText": "Das Treppenhaus Spuren von Haustieren aufweist, nach Renovierungsarbeiten der Nachbarn Spuren zurückbleiben, oder Sie einfach möchten, dass die Gemeinschaftsräume Ihres Zuhauses stets repräsentativ und sauber sind."
+    },
+    "construction": {
+      "title": "Baureinigung",
+      "description": "Wenn Sie perfekte Ergebnisse wünschen, überlassen Sie die fachgerechte Entfernung von Tropfen, Kleberresten, Staub und anderen Verunreinigungen nach Bau, Renovierung oder Malerarbeiten unserem Unternehmen. Mit unseren Industriemaschinen und speziellen Reinigungsmitteln garantieren wir makellose Ergebnisse.",
+      "features": [
+        "Entfernung von Baustaub und Schutt",
+        "Reinigung von Farbflecken und Kleberresten",
+        "Gründliche Fenster- und Glasreinigung",
+        "Maschinelle Boden- und Fliesenreinigung",
+        "Polieren von Sanitäranlagen und Armaturen",
+        "Endabnahme-Qualitätskontrolle"
+      ],
+      "infoTitle": "Grundreinigung nach dem Bau:",
+      "infoText": "Bauarbeiten können Unordnung hinterlassen, die eine gründliche Reinigung erfordert. Wir stellen sicher, dass neu gebaute oder renovierte Immobilien makellos und bezugsfertig sind."
+    },
+    "deep": {
+      "title": "Wohnungs-Grundreinigung",
+      "description": "Von Zeit zu Zeit brauchen wir alle eine gründliche Grundreinigung, die wir auf professionellem Niveau durchführen. Ob Umzugsreinigung oder einfach eine Tiefenreinigung - wir helfen Ihnen!",
+      "features": [
+        "Tiefenreinigung von Küchengeräten (Backofen, Kühlschrank, Mikrowelle)",
+        "Kalk- und Schimmelentfernung im Bad",
+        "Fenster- und Rolladenreinigung",
+        "Reinigung hinter und unter Möbeln",
+        "Gründliche Fliesen- und Fugenreinigung",
+        "Textil- und Polsterauffrischung"
+      ],
+      "infoTitle": "Wann sollte man eine Grundreinigung bestellen?",
+      "infoText": "Vor/nach einem Umzug, bei Jahreszeitenwechsel, vor größeren Veranstaltungen oder wenn Sie einfach möchten, dass Ihr Zuhause wieder strahlt. Wir empfehlen mindestens 2-4 mal pro Jahr."
+    }
+  },
+  "pricing": {
+    "title": "Unsere Preise",
+    "subtitle": "Transparente Preise, keine versteckten Kosten",
+    "popular": "Beliebt",
+    "plans": {
+      "basic": {
+        "name": "Basis Wohnanlage",
+        "description": "Für regelmäßige Reinigung kleinerer Wohnanlagen",
+        "price": "25.000",
+        "unit": "HUF/Besuch",
+        "features": [
+          "Treppenhausreinigung (max. 4 Etagen)",
+          "Eingangs- und Vorraum-Reinigung",
+          "Handlauf-Desinfektion",
+          "Briefkasten-Reinigung",
+          "Einmal pro Woche"
+        ],
+        "cta": "Angebot anfordern"
+      },
+      "premium": {
+        "name": "Premium Wohnanlage",
+        "description": "Für umfassende Reinigung größerer Wohnanlagen",
+        "price": "45.000",
+        "unit": "HUF/Besuch",
+        "features": [
+          "Treppenhausreinigung (unbegrenzte Etagen)",
+          "Aufzug und Gemeinschaftsräume",
+          "Fensterreinigung (vierteljährlich)",
+          "Hof fegen",
+          "Zweimal pro Woche",
+          "Flexible Termine"
+        ],
+        "cta": "Am beliebtesten"
+      },
+      "office": {
+        "name": "Bürogebäude",
+        "description": "Für Büros und Gewerbeflächen",
+        "price": "Individuell",
+        "unit": "Angebot",
+        "features": [
+          "Tägliche/wöchentliche Reinigung",
+          "Büroflächenreinigung",
+          "Toilettendesinfektion",
+          "Küchen-/Essbereichreinigung",
+          "Teppichreinigung (monatlich)",
+          "Reinigung außerhalb der Arbeitszeit"
+        ],
+        "cta": "Angebot anfordern"
+      }
+    },
+    "additional": {
+      "title": "Zusätzliche Leistungen",
+      "window": { "name": "Fensterreinigung", "price": "500 HUF/m²" },
+      "carpet": { "name": "Teppichreinigung", "price": "800 HUF/m²" },
+      "deep": { "name": "Grundreinigung", "price": "3.000 HUF/m²" },
+      "construction": { "name": "Baureinigung", "price": "4.000 HUF/m²" }
+    },
+    "disclaimer": "* Die Preise sind Richtwerte. Für ein genaues Angebot kontaktieren Sie uns bitte. Wir bieten kostenlose Vor-Ort-Bewertung.",
+    "cta": "Angebot anfordern"
+  },
+  "about": {
+    "title": "Über uns",
+    "subtitle": "Lernen Sie das KaDa Cleaning Team kennen",
+    "stats": {
+      "founded": "Gründungsjahr",
+      "experience": "Jahre Erfahrung",
+      "area": "und Umgebung",
+      "guarantee": "Zufriedenheitsgarantie"
+    },
+    "mission": {
+      "title": "Unsere Mission ist Sauberkeit",
+      "p1": "KaDa Cleaning wurde im Januar 2025 mit dem Ziel gegründet, professionelle Reinigungsdienstleistungen für Privatpersonen und Unternehmen in Szeged und Umgebung anzubieten.",
+      "p2": "Jedes Mitglied unseres erfahrenen Teams hat eine gründliche Ausbildung durchlaufen und ist bestrebt, jede Arbeit auf höchstem Niveau auszuführen.",
+      "p3": "Wir sind stolz darauf, ausschließlich umweltfreundliche, hypoallergene Reinigungsprodukte zu verwenden, die für Ihre Familie und Haustiere sicher sind.",
+      "p4": "Wir glauben, dass eine saubere Umgebung kein Luxus, sondern eine Grundnotwendigkeit ist - und wir helfen Ihnen, diese zu erreichen."
+    },
+    "features": {
+      "team": {
+        "title": "Erfahrenes Team",
+        "description": "Alle unsere Mitarbeiter haben eine gründliche Ausbildung durchlaufen und verfügen über die notwendige Berufserfahrung. Wir entwickeln unser Wissen über neue Reinigungstechnologien kontinuierlich weiter."
+      },
+      "eco": {
+        "title": "Umweltfreundliche Lösungen",
+        "description": "Wir verwenden ausschließlich umweltfreundliche, hypoallergene Reinigungsprodukte, die für Kinder und Haustiere sicher sind und gleichzeitig Verunreinigungen effektiv entfernen."
+      },
+      "quality": {
+        "title": "Qualitätsgarantie",
+        "description": "Wenn Sie mit unserer Arbeit nicht zufrieden sind, kommen wir kostenlos zurück und reinigen erneut. Kundenzufriedenheit steht an erster Stelle - das garantieren wir bei jeder Bestellung."
+      },
+      "flexible": {
+        "title": "Flexible Termine",
+        "description": "Wir passen uns Ihrem Zeitplan an - ob morgens, abends oder am Wochenende. Mit unserem Online-Buchungssystem können Sie einfach die für Sie passende Zeit wählen."
+      },
+      "insured": {
+        "title": "Versicherter Service",
+        "description": "Wir haben eine umfassende Haftpflichtversicherung, sodass Sie beruhigt sein können. Unsere Mitarbeiter sind zuverlässig und diskret - Ihr Zuhause ist bei uns sicher."
+      },
+      "support": {
+        "title": "Kundenservice",
+        "description": "Haben Sie Fragen? Unser Kundenservice ist werktags von 8:00-18:00 Uhr erreichbar. Wir stehen Ihnen mit schnellen Reaktionszeiten und maßgeschneiderten Lösungen zur Verfügung."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Bewertungen",
+    "subtitle": "Was unsere Kunden über uns sagen",
+    "cta": "Werden Sie Teil unserer zufriedenen Kunden!",
+    "ctaButton": "Angebot anfordern",
+    "reviews": {
+      "1": {
+        "name": "Peter Kovács",
+        "role": "Hausverwaltung",
+        "content": "Seit wir mit KaDa Cleaning zusammenarbeiten, sind die Bewohner zufrieden und das Treppenhaus ist immer sauber und ordentlich. Zuverlässig und flexibel - kann ich nur empfehlen!"
+      },
+      "2": {
+        "name": "Eszter Nagy",
+        "role": "Büroleitung",
+        "content": "Wir haben ihnen die Büroreinigung anvertraut und wurden nicht enttäuscht. Sie arbeiten präzise und kommen immer pünktlich. Auch die Mitarbeiter haben den Unterschied bemerkt!"
+      },
+      "3": {
+        "name": "János Szabó",
+        "role": "Wohnungseigentümer",
+        "content": "Wir haben sie nach der Renovierung zur Grundreinigung gerufen. Sie haben unglaubliche Arbeit geleistet - sie haben Baustaub von Stellen entfernt, an die wir nicht gedacht hätten."
+      },
+      "4": {
+        "name": "Mária Tóth",
+        "role": "Hausbesitzerin",
+        "content": "Wir bestellen zweimal im Jahr eine Grundreinigung. Sie verwenden umweltfreundliche Produkte, was uns wegen der Kinder und des Hundes wichtig ist. Ausgezeichnete Qualität!"
+      },
+      "5": {
+        "name": "Gábor Horváth",
+        "role": "Bauunternehmer",
+        "content": "Ich rufe KaDa Cleaning vor jeder Übergabe an. Sie sind schnell, gründlich, und meine Kunden sind immer mit dem Ergebnis zufrieden. Professionelles Team!"
+      },
+      "6": {
+        "name": "Katalin Varga",
+        "role": "Airbnb-Gastgeberin",
+        "content": "Ich vermiete mehrere Apartments und kann mich bei der Reinigung zwischen den Gästewechseln immer auf KaDa Cleaning verlassen. Flexibel und zuverlässig."
+      }
+    }
+  },
+  "serviceArea": {
+    "title": "Servicegebiet",
+    "subtitle": "Wo sind wir erreichbar?",
+    "regions": {
+      "szeged": "Szeged",
+      "surrounding": "Umgebung"
+    },
+    "highlights": [
+      "Kostenlose Vor-Ort-Bewertung",
+      "Flexible Termine",
+      "Schnelle Reaktion",
+      "Regelmäßige und einmalige Aufträge"
+    ],
+    "cta": {
+      "title": "Interessieren Sie sich für unsere Dienstleistungen?",
+      "description": "Kontaktieren Sie uns und fordern Sie ein kostenloses Angebot an! Wir bedienen Szeged und einen Umkreis von 30 km.",
+      "button": "Kontaktieren Sie uns"
+    }
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "subtitle": "Antworten auf die häufigsten Fragen",
+    "notFound": "Haben Sie die Antwort auf Ihre Frage nicht gefunden?",
+    "contactUs": "Schreiben Sie uns!",
+    "questions": {
+      "1": {
+        "question": "Wie oft wird eine Wohnanlagereinigung empfohlen?",
+        "answer": "Die Reinigungshäufigkeit wird durch die Gebäudegröße, die Anzahl der Bewohner und den Verkehr bestimmt. Wir empfehlen in der Regel 1-2 mal pro Woche, aber größere Gebäude können eine tägliche Reinigung erfordern. Bei der ersten Beratung bewerten wir Ihre Bedürfnisse und erstellen ein personalisiertes Angebot."
+      },
+      "2": {
+        "question": "Welche Reinigungsprodukte verwenden Sie?",
+        "answer": "Wir verwenden ausschließlich professionelle, umweltfreundliche und hypoallergene Reinigungsprodukte, die für Kinder und Haustiere sicher sind. Alle unsere Produkte haben die erforderlichen Qualitätszertifikate."
+      },
+      "3": {
+        "question": "Was kostet der Reinigungsservice?",
+        "answer": "Der Preis hängt von mehreren Faktoren ab: Größe der zu reinigenden Fläche, Art und Häufigkeit der Reinigung sowie eventuelle Sonderwünsche. Wir bieten kostenlose Vor-Ort-Bewertung und personalisierte Angebote."
+      },
+      "4": {
+        "question": "Garantieren Sie Ihre Arbeit?",
+        "answer": "Ja! Wir bieten eine 100%ige Zufriedenheitsgarantie für alle unsere Arbeiten. Wenn Sie mit dem Ergebnis nicht zufrieden sind, kommen wir kostenlos zurück und reinigen erneut. Wir haben auch eine umfassende Haftpflichtversicherung."
+      },
+      "5": {
+        "question": "Wie funktioniert die Buchung und Bezahlung?",
+        "answer": "Die Buchung kann telefonisch, per E-Mail oder über unsere Website erfolgen. Für Erstkunden führen wir eine kostenlose Vor-Ort-Bewertung durch. Die Bezahlung kann nach Abschluss der Arbeit in bar oder per Überweisung erfolgen. Für regelmäßige Aufträge bieten wir auch monatliche Abrechnung an."
+      },
+      "6": {
+        "question": "Arbeiten Sie auch am Wochenende oder an Feiertagen?",
+        "answer": "Ja, wir passen uns den Bedürfnissen unserer Kunden an. Wir übernehmen auch Wochenend- und Feiertagsreinigung nach vorheriger Vereinbarung. Bei Bürogebäuden führen wir die Reinigung oft außerhalb der Arbeitszeit durch, um die Arbeit nicht zu stören."
+      },
+      "7": {
+        "question": "Was passiert, wenn ich während der Reinigung nicht zu Hause bin?",
+        "answer": "Unsere Stammkunden vertrauen uns oft Schlüssel an. Alle unsere Mitarbeiter haben Hintergrundprüfungen und Zuverlässigkeitsbewertungen durchlaufen. Wir lagern Schlüssel sicher und behandeln sie nach strengen Protokollen."
+      },
+      "8": {
+        "question": "Übernehmen Sie auch spezielle Reinigungsaufgaben?",
+        "answer": "Ja! Neben der Standardreinigung bieten wir Fensterreinigung, Teppichreinigung, Polsterreinigung, tiefe Entkalkung und andere Spezialaufgaben an. Fordern Sie unser individuelles Angebot an!"
+      }
+    }
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Fordern Sie noch heute ein kostenloses Angebot an!",
+    "sidebar": {
+      "title": "Nehmen Sie Kontakt auf!",
+      "description": "Füllen Sie das Formular aus und wir werden Sie bald kontaktieren. Qualität steht bei uns an erster Stelle, und unser Ziel ist ein 100% zufriedener Kunde!",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "area": "Servicegebiet",
+      "comingSoon": "Demnächst"
+    },
+    "trust": {
+      "title": "Schnelle Antwort",
+      "description": "Wir antworten innerhalb von 24 Stunden"
+    },
+    "form": {
+      "title": "Angebot anfordern",
+      "lastName": "Nachname",
+      "lastNamePlaceholder": "Müller",
+      "firstName": "Vorname",
+      "firstNamePlaceholder": "Hans",
+      "email": "E-Mail-Adresse",
+      "emailPlaceholder": "beispiel@email.de",
+      "phone": "Telefonnummer",
+      "phonePlaceholder": "+36 30 123 4567",
+      "message": "Nachricht",
+      "messagePlaceholder": "Beschreiben Sie, wie wir helfen können...",
+      "submit": "Nachricht senden",
+      "success": "Erfolgreich gesendet!",
+      "successDescription": "Ihre Angebotsanfrage wurde erfolgreich weitergeleitet!",
+      "error": "Ein Fehler ist aufgetreten!"
+    }
+  },
+  "cookie": {
+    "title": "Wir verwenden Cookies",
+    "description": "Unsere Website verwendet Cookies, um die Benutzererfahrung zu verbessern und den Seitenverkehr zu analysieren. Mit Klick auf \"Akzeptieren\" stimmen Sie der Verwendung von Cookies zu.",
+    "privacyLink": "Datenschutzrichtlinie",
+    "accept": "Akzeptieren",
+    "decline": "Ablehnen"
+  },
+  "footer": {
+    "description": "Professionelle Reinigungsdienstleistungen für Bürogebäude und Wohnanlagen.",
+    "copyright": "Alle Rechte vorbehalten",
+    "madeBy": "Erstellt von:"
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "description": "Die gesuchte Seite existiert nicht oder wurde verschoben.",
+    "backHome": "Zurück zur Startseite"
+  },
+  "floatingButtons": {
+    "backToTop": "Nach oben",
+    "call": "Anrufen",
+    "contact": "Kontakt",
+    "whatsappMessage": "Hallo! Ich interessiere mich für Ihre Reinigungsdienste."
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "backToHome": "Zurück zur Startseite",
+    "lastUpdated": "Letzte Aktualisierung",
+    "intro": "KaDa Cleaning verpflichtet sich zum Schutz Ihrer persönlichen Daten. Diese Datenschutzerklärung beschreibt, wie wir Ihre Daten bei der Nutzung unserer Dienste erfassen, verwenden und schützen.",
+    "sections": {
+      "dataController": {
+        "title": "Verantwortlicher",
+        "content": "Der Verantwortliche ist KaDa Cleaning (Sitz: Szeged, Ungarn). Bei Fragen zur Datenverarbeitung kontaktieren Sie uns unter info@kadacleaning.hu."
+      },
+      "dataCollection": {
+        "title": "Erhobene Daten",
+        "content": "Über das Kontaktformular erheben wir folgende Daten: Nachname, Vorname, E-Mail-Adresse, Telefonnummer und Ihre Nachricht. Zusätzlich erheben wir durch Cookies anonyme statistische Daten während der Websitenutzung."
+      },
+      "purpose": {
+        "title": "Zweck der Datenverarbeitung",
+        "content": "Wir verwenden Ihre Daten ausschließlich zur Kontaktaufnahme, Beantwortung von Angebotsanfragen und Erfüllung unserer Dienstleistungen. Wir geben Ihre Daten nicht zu Marketingzwecken an Dritte weiter."
+      },
+      "legalBasis": {
+        "title": "Rechtsgrundlage",
+        "content": "Die Rechtsgrundlage für die Datenverarbeitung ist Ihre Einwilligung (DSGVO Artikel 6 Absatz 1 Buchstabe a), die Sie durch Ausfüllen des Kontaktformulars erteilen. Sie können Ihre Einwilligung jederzeit widerrufen."
+      },
+      "retention": {
+        "title": "Speicherdauer",
+        "content": "Wir speichern Kontaktdaten bis zur Beantwortung der Angebotsanfrage, oder im Falle eines Vertrags für 5 Jahre nach Vertragsende, entsprechend den gesetzlichen Verpflichtungen."
+      },
+      "rights": {
+        "title": "Ihre Rechte",
+        "content": "Nach der DSGVO haben Sie folgende Rechte:",
+        "list": {
+          "access": "Auskunftsrecht: Anforderung von Informationen über Ihre gespeicherten Daten",
+          "rectification": "Recht auf Berichtigung: Berichtigung unrichtiger Daten verlangen",
+          "erasure": "Recht auf Löschung: Löschung Ihrer Daten verlangen",
+          "restriction": "Recht auf Einschränkung: Einschränkung der Datenverarbeitung verlangen",
+          "portability": "Datenübertragbarkeit: Übertragung Ihrer Daten verlangen",
+          "objection": "Widerspruchsrecht: Der Datenverarbeitung widersprechen"
+        }
+      },
+      "cookies": {
+        "title": "Cookies",
+        "content": "Unsere Website verwendet Cookies zur Verbesserung der Benutzererfahrung und zur Erhebung anonymer Statistiken (Google Analytics). Bei Ihrem ersten Besuch bitten wir um Ihre Zustimmung zur Cookie-Nutzung. Sie können die Cookie-Einstellungen jederzeit in Ihrem Browser ändern."
+      },
+      "contact": {
+        "title": "Kontakt",
+        "content": "Bei Datenschutzfragen kontaktieren Sie uns unter: info@kadacleaning.hu. Bei Beschwerden können Sie sich an die ungarische Datenschutzbehörde (NAIH) wenden: www.naih.hu"
+      }
+    },
+    "footerNote": "Diese Erklärung gilt ab dem 1. Januar 2025. Wir behalten uns das Recht vor, diese Erklärung zu ändern und werden Sie über Änderungen auf unserer Website informieren."
+  },
+  "servicePages": {
+    "backToHome": "Zurück zur Startseite",
+    "getQuote": "Angebot anfordern",
+    "whyChooseUs": "Warum uns wählen?",
+    "process": "Wie wir arbeiten",
+    "otherServices": "Unsere anderen Dienstleistungen",
+    "office": {
+      "slug": "irodahaz-takaritas",
+      "metaTitle": "Bürogebäudereinigung in Szeged | KaDa Cleaning",
+      "metaDescription": "Professionelle Bürogebäudereinigung in Szeged und Umgebung. Tägliche, wöchentliche Reinigung, Desinfektion, maschinelle Bodenreinigung. Kostenloses Angebot anfordern!",
+      "hero": {
+        "title": "Bürogebäudereinigung",
+        "subtitle": "Professionelle Büroreinigung für eine produktive Arbeitsumgebung"
+      },
+      "intro": {
+        "title": "Sauberes Büro, zufriedene Mitarbeiter",
+        "p1": "Eine saubere, organisierte Arbeitsumgebung ist nicht nur eine ästhetische Frage - sie beeinflusst direkt die Produktivität, Gesundheit der Mitarbeiter und das Unternehmensimage. Ein hygienischer Büroraum reduziert die Verbreitung von Krankheiten und erhöht die Arbeitszufriedenheit.",
+        "p2": "Mit den professionellen Büroreinigungsdiensten von KaDa Cleaning stellen wir sicher, dass Ihre Mitarbeiter jeden Tag in einer strahlend sauberen, inspirierenden Umgebung starten können. Unser erfahrenes Team arbeitet mit modernster Ausrüstung und umweltfreundlichen Reinigungsmitteln."
+      },
+      "services": {
+        "title": "Unsere Büroreinigungsdienste",
+        "items": [
+          {
+            "title": "Tägliche regelmäßige Reinigung",
+            "description": "Entstaubung von Büroflächen, Bodenreinigung, Mülleimer leeren, allgemeine Aufräumarbeiten"
+          },
+          {
+            "title": "Sanitär- & Küchendesinfektion",
+            "description": "Gründliche Sanitärreinigung, Armaturenpolitur, Desinfektion von Küchengeräten und -oberflächen"
+          },
+          {
+            "title": "Maschinelle Bodenreinigung",
+            "description": "Tiefenreinigung und Polieren mit Industriemaschinen für alle Bodenarten"
+          },
+          {
+            "title": "Teppichreinigung",
+            "description": "Professionelle maschinelle Reinigung von Büroteppichen und Teppichböden, Fleckenentfernung"
+          },
+          {
+            "title": "Fensterreinigung",
+            "description": "Innen- und Außenfensterreinigung, Rahmenreinigung, Fensterbankenstauben"
+          },
+          {
+            "title": "Spezialreinigung",
+            "description": "Polsterreinigung, Klimaanlagenreinigung, Arbeiten in der Höhe"
+          }
+        ]
+      },
+      "benefits": [
+        "Reinigung außerhalb der Geschäftszeiten - keine Störung der Arbeit",
+        "Flexible Terminplanung nach Ihren Bedürfnissen",
+        "Umweltfreundliche, hypoallergene Reinigungsmittel",
+        "Umfassende Haftpflichtversicherung",
+        "Zuverlässiges, geprüftes Personal",
+        "100% Zufriedenheitsgarantie"
+      ],
+      "process": {
+        "steps": [
+          {
+            "title": "Kostenlose Bewertung",
+            "description": "Wir besuchen das Büro, um Bedürfnisse und Fläche zu bewerten"
+          },
+          {
+            "title": "Individuelles Angebot",
+            "description": "Wir erstellen ein detailliertes Angebot basierend auf Ihren Bedürfnissen"
+          },
+          {
+            "title": "Vertragsabschluss",
+            "description": "Flexible Vertragsbedingungen, keine langfristige Bindung erforderlich"
+          },
+          {
+            "title": "Regelmäßige Reinigung",
+            "description": "Zuverlässige, qualitativ hochwertige Arbeit nach vereinbartem Zeitplan"
+          }
+        ]
+      },
+      "faq": [
+        {
+          "question": "Wie oft wird Büroreinigung empfohlen?",
+          "answer": "Dies hängt von der Bürogröße und der Mitarbeiteranzahl ab. Wir empfehlen generell täglich oder 2-3 mal pro Woche für Gemeinschaftsbereiche und Sanitärräume, während einzelne Büros wöchentlich gereinigt werden können."
+        },
+        {
+          "question": "Arbeiten Sie außerhalb der Geschäftszeiten?",
+          "answer": "Ja, wir empfehlen ausdrücklich die Reinigung außerhalb der Geschäftszeiten, um die Büroarbeit nicht zu stören. Wir können frühe Morgen-, Abend- und Wochenendtermine anbieten."
+        },
+        {
+          "question": "Bringen Sie eigene Geräte und Reinigungsmittel mit?",
+          "answer": "Ja, wir stellen alle notwendigen Geräte und professionellen Reinigungsmittel zur Verfügung. Wir verwenden ausschließlich umweltfreundliche, hypoallergene Produkte."
+        }
+      ]
+    },
+    "residential": {
+      "slug": "tarsashaz-takaritas",
+      "metaTitle": "Wohngebäudereinigung in Szeged | KaDa Cleaning",
+      "metaDescription": "Professionelle Wohngebäude- und Treppenhausreinigung in Szeged. Regelmäßige Reinigung, Desinfektion, Winterdienst. Kostenloses Angebot anfordern!",
+      "hero": {
+        "title": "Wohngebäudereinigung",
+        "subtitle": "Saubere Treppenhäuser, zufriedene Bewohner, wertvolle Immobilie"
+      },
+      "intro": {
+        "title": "Repräsentative Gemeinschaftsbereiche",
+        "p1": "Die Gemeinschaftsbereiche eines Wohngebäudes hinterlassen den ersten Eindruck bei Besuchern und potenziellen Käufern. Regelmäßig gereinigte, gepflegte Treppenhäuser und Gemeinschaftsbereiche bieten nicht nur eine angenehmere Wohnumgebung, sondern steigern auch den Immobilienwert.",
+        "p2": "KaDa Cleaning bietet umfassende Wohngebäudereinigungsdienste an, einschließlich regelmäßiger Wartung von Treppenhäusern, Aufzügen, Gemeinschaftsbereichen und Höfen. Unsere flexiblen Servicepakete können die Bedürfnisse jeder Gebäudegröße erfüllen."
+      },
+      "services": {
+        "title": "Unsere Wohngebäudereinigungsdienste",
+        "items": [
+          {
+            "title": "Treppenhausreinigung",
+            "description": "Reinigung von Stufen, Geländern, Wänden, Entstaubung, Wischen auf allen Etagen"
+          },
+          {
+            "title": "Aufzugreinigung",
+            "description": "Innenreinigung der Aufzugkabine, Spiegelpolitur, Bodenreinigung, Tastendesinfektion"
+          },
+          {
+            "title": "Eingang & Lobby",
+            "description": "Eingangstürreinigung, Glasflächenreinigung, Lobbywischen, Briefkästenabwischen"
+          },
+          {
+            "title": "Gemeinschaftsräume",
+            "description": "Waschküche, Trockenraum, Lagerräume, Fahrradkeller reinigung"
+          },
+          {
+            "title": "Hof & Parkplatz",
+            "description": "Hofwegekehren, Parkplatzreinigung, Reinigung um Grünflächen"
+          },
+          {
+            "title": "Winterdienst",
+            "description": "Streuen, Schneeschaufeln, Eisentfernung für sicheren Durchgang"
+          }
+        ]
+      },
+      "benefits": [
+        "Regelmäßige, zuverlässige Reinigung - immer saubere Treppenhäuser",
+        "Steigert Immobilienwert und Attraktivität",
+        "Reduziert Konflikte zwischen Bewohnern",
+        "Flexible Terminplanung und Servicepakete",
+        "Verwendung umweltfreundlicher Reinigungsmittel",
+        "Umfassende Haftpflichtversicherung"
+      ],
+      "process": {
+        "steps": [
+          {
+            "title": "Kontaktaufnahme",
+            "description": "Erreichen Sie uns per Telefon, E-Mail oder Kontaktformular"
+          },
+          {
+            "title": "Vor-Ort-Bewertung",
+            "description": "Kostenlose Bewertung des Gebäudes und Ihrer Bedürfnisse"
+          },
+          {
+            "title": "Angebot & Beratung",
+            "description": "Individuelles Angebot für Hausverwalter oder Eigentümerversammlung"
+          },
+          {
+            "title": "Regelmäßige Reinigung",
+            "description": "Reinigung beginnt nach vereinbartem Zeitplan"
+          }
+        ]
+      },
+      "faq": [
+        {
+          "question": "Wie oft sollte ein Treppenhaus gereinigt werden?",
+          "answer": "Die Reinigungshäufigkeit hängt von der Bewohneranzahl und dem Verkehr ab. Wir empfehlen generell 1-2 mal pro Woche, aber stark frequentierte Gebäude können tägliche Reinigung erfordern."
+        },
+        {
+          "question": "Wie funktioniert die Zahlung?",
+          "answer": "Wir arbeiten mit monatlicher Rechnungsstellung, Bewohner können als Teil der Nebenkosten zahlen. Wir akzeptieren sowohl Barzahlung als auch Überweisung."
+        },
+        {
+          "question": "Machen Sie auch Einzelreinigungen?",
+          "answer": "Ja, zusätzlich zu regelmäßigen Verträgen übernehmen wir auch Einzelaufträge, wie nach Renovierungen oder vor besonderen Veranstaltungen."
+        }
+      ]
+    },
+    "construction": {
+      "slug": "felujitas-utani-takaritas",
+      "metaTitle": "Baureinigung in Szeged | KaDa Cleaning",
+      "metaDescription": "Professionelle Bau- und Renovierungsreinigung in Szeged. Entfernung von Baustaub, Farbflecken, Kleberresten. Kostenloses Angebot anfordern!",
+      "hero": {
+        "title": "Baureinigung",
+        "subtitle": "Makellose Ergebnisse nach der Bauarbeit"
+      },
+      "intro": {
+        "title": "Professionelle Baureinigung",
+        "p1": "Nach Bau- und Renovierungsarbeiten bleibt viel Staub, Schutt, Farbflecken und Kleberreste zurück, deren Entfernung spezielles Wissen und Ausrüstung erfordert. Normale Reinigung kann nicht die perfekten Ergebnisse erzielen, die eine neue oder renovierte Immobilie verdient.",
+        "p2": "Mit den Industriemaschinen und speziellen Reinigungsmitteln von KaDa Cleaning garantieren wir, dass Ihre Immobilie makellos sauber für den Einzug oder die Übergabe sein wird. Unser erfahrenes Team entfernt effektiv alle Arten von Bauverschmutzungen."
+      },
+      "services": {
+        "title": "Unsere Baureinigungsdienste",
+        "items": [
+          {
+            "title": "Baustaub entfernung",
+            "description": "Entfernung von feinem Zement- und Gipsstaub von allen Oberflächen, einschließlich schwer zugänglicher Bereiche"
+          },
+          {
+            "title": "Farbfleckenreinigung",
+            "description": "Sichere Entfernung von Farbtropfen und -spritzern von Fenstern, Böden, Fliesen"
+          },
+          {
+            "title": "Kleberreste",
+            "description": "Entfernung von Fliesenkleber, Silikon, Schaum und anderen Baumaterialresten"
+          },
+          {
+            "title": "Fenster-Tiefenreinigung",
+            "description": "Entfernung von Baustaub und Folie, Rahmenreinigung, Fensterbankenstauben"
+          },
+          {
+            "title": "Maschinelle Bodenreinigung",
+            "description": "Maschinelle Tiefenreinigung und Polieren von Fliesen, Parkett, Laminatböden"
+          },
+          {
+            "title": "Sanitärpolitur",
+            "description": "Gründliche Reinigung und Polieren von Toiletten, Waschbecken, Armaturen, Duschen"
+          }
+        ]
+      },
+      "benefits": [
+        "Industriemaschinen und spezielle Reinigungsmittel",
+        "Erfahrenes Team in der Baureinigung",
+        "Geeignete Technologie für alle Oberflächenarten",
+        "Schnelle und effiziente Arbeit",
+        "Makellose Ergebnisse bereit zur Übergabe",
+        "Garantie-Nachreinigung bei Bedarf"
+      ],
+      "process": {
+        "steps": [
+          {
+            "title": "Bewertung",
+            "description": "Wir bewerten die Arbeit basierend auf Bauart und Verschmutzungsgrad"
+          },
+          {
+            "title": "Angebot",
+            "description": "Preis pro Quadratmeter oder Festpreis nach Ihren Bedürfnissen"
+          },
+          {
+            "title": "Tiefenreinigung",
+            "description": "Professionelle, gründliche Reinigung in jedem Raum"
+          },
+          {
+            "title": "Qualitätskontrolle",
+            "description": "Endkontrolle vor der Übergabe, Korrekturen bei Bedarf"
+          }
+        ]
+      },
+      "faq": [
+        {
+          "question": "Wann kann die Reinigung beginnen?",
+          "answer": "Nach vollständigem Abschluss der Bauarbeiten, wenn Farbe und Kleber getrocknet sind. Wir empfehlen generell 24-48 Stunden nach Arbeitsende."
+        },
+        {
+          "question": "Wie lange dauert eine Renovierungsreinigung?",
+          "answer": "Dies hängt von der Immobiliengröße und dem Verschmutzungsgrad ab. Für eine durchschnittliche Wohnung 4-8 Stunden; für größere Flächen kann es 1-2 Tage dauern."
+        },
+        {
+          "question": "Was ist, wenn etwas nicht perfekt ist?",
+          "answer": "Wir bieten eine 100% Zufriedenheitsgarantie. Wenn Sie Mängel finden, kommen wir zurück und korrigieren kostenlos."
+        }
+      ]
+    },
+    "deep": {
+      "slug": "nagytakaritas",
+      "metaTitle": "Grundreinigung in Szeged | KaDa Cleaning",
+      "metaDescription": "Professionelle Wohnungsgrundung in Szeged. Umzugsreinigung, Frühjahrsputz. Tiefenreinigung, Desinfektion. Angebot anfordern!",
+      "hero": {
+        "title": "Grundreinigung",
+        "subtitle": "Gründliche Reinigung, strahlendes Zuhause"
+      },
+      "intro": {
+        "title": "Wenn normale Reinigung nicht ausreicht",
+        "p1": "Bei der alltäglichen Reinigung werden viele Bereiche ausgelassen: Bereiche hinter Möbeln, schwer zugängliche Ecken, das Innere von Küchengeräten. Mit der Zeit sammeln sich an diesen Stellen Staub, Fett und Schmutz an, was Allergene und unangenehme Gerüche verursachen kann.",
+        "p2": "Mit dem Grundreinigungsservice von KaDa Cleaning reinigen wir jede Ecke. Mit unserer professionellen Ausrüstung und Methoden führen wir eine so gründliche Reinigung durch, dass Ihr Zuhause wieder strahlen wird. Ideal vor/nach dem Umzug, bei Jahreszeitenwechsel oder wann immer eine Tiefenreinigung nötig ist."
+      },
+      "services": {
+        "title": "Unsere Grundreinigungsdienste",
+        "items": [
+          {
+            "title": "Küchen-Tiefenreinigung",
+            "description": "Innen- und Außenreinigung von Backofen, Kühlschrank, Mikrowelle, Dunstabzugshaube, Entfettung"
+          },
+          {
+            "title": "Gründliche Badreinigung",
+            "description": "Kalkentfernung, Schimmelentfernung, Fugenreinigung, Sanitärdesinfektion"
+          },
+          {
+            "title": "Fenster & Jalousien",
+            "description": "Innen-Außen-Fensterreinigung, Jalousien, Rollläden, Fliegengitter entstauben"
+          },
+          {
+            "title": "Hinter & unter Möbeln",
+            "description": "Möbel verschieben (wenn möglich), gründliche Reinigung dahinter und darunter"
+          },
+          {
+            "title": "Textilauffrischung",
+            "description": "Polster, Vorhang, Matratzenentstaubung und -auffrischung"
+          },
+          {
+            "title": "Lampen & Deko",
+            "description": "Kronleuchter, Lampen, Bilderrahmen, Dekoartikel entstauben"
+          }
+        ]
+      },
+      "benefits": [
+        "Wir reinigen jede Ecke, die die tägliche Reinigung auslässt",
+        "Professionelle Ausrüstung und Reinigungsmittel",
+        "Hypoallergene Produkte, sicher für Allergiker",
+        "Beseitigung unangenehmer Gerüche",
+        "Flexible Terminplanung, auch am Wochenende",
+        "Garantie-Nachreinigung bei Unzufriedenheit"
+      ],
+      "process": {
+        "steps": [
+          {
+            "title": "Beratung",
+            "description": "Wir bewerten Wohnungsgröße und besondere Bedürfnisse"
+          },
+          {
+            "title": "Angebot",
+            "description": "Personalisierte Angebotserstellung"
+          },
+          {
+            "title": "Grundreinigung",
+            "description": "Gründliche, methodische Reinigung in jedem Raum"
+          },
+          {
+            "title": "Kontrolle",
+            "description": "Gemeinsame Überprüfung, ob alles den Erwartungen entspricht"
+          }
+        ]
+      },
+      "occasions": {
+        "title": "Wann empfehlen wir Grundreinigung?",
+        "items": [
+          {
+            "title": "Vor/Nach dem Umzug",
+            "description": "Saubere Wohnungsübergabe/-übernahme"
+          },
+          {
+            "title": "Frühjahrsputz",
+            "description": "Jährliche gründliche Reinigung"
+          },
+          {
+            "title": "Vor Veranstaltungen",
+            "description": "Feiertage, Familienfeiern"
+          },
+          {
+            "title": "Für Allergiker",
+            "description": "Staubentfernung, Allergenreduzierung"
+          }
+        ]
+      },
+      "faq": [
+        {
+          "question": "Wie lange dauert eine Grundreinigung?",
+          "answer": "Für eine durchschnittliche Wohnung (50-70 m²) dauert es normalerweise 4-6 Stunden. Für größere Wohnungen oder stärkere Verschmutzung kann mehr Zeit nötig sein."
+        },
+        {
+          "question": "Was muss ich vorbereiten?",
+          "answer": "Wir empfehlen, persönliche Gegenstände und Wertsachen an einen sicheren Ort zu legen. Wir bringen alle notwendigen Reinigungsgeräte und -mittel mit."
+        },
+        {
+          "question": "Muss ich während der Reinigung zu Hause sein?",
+          "answer": "Nicht unbedingt. Wenn Sie uns vertrauen, können wir einen Schlüssel abholen. Natürlich bevorzugen viele Kunden, zu Hause zu bleiben, was völlig in Ordnung ist."
+        }
+      ]
+    }
+  }
+}
